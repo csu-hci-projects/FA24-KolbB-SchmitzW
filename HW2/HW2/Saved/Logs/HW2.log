@@ -1793,3 +1793,9 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2024.12.06-18.43.15:772][238]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
 [2024.12.06-18.43.15:775][238]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
 [2024.12.06-18.43.17:000][239]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2024.12.06-18.44.04:725][135]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LevelOne" FILE="../../../../../ART/Game/FA24-KolbB-SchmitzW/HW2/HW2/Content/LevelOne.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.12.06-18.44.04:767][135]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2024.12.06-18.44.04:796][135]LogSavePackage: Moving output files for package: /Game/LevelOne
+[2024.12.06-18.44.04:798][135]LogSavePackage: Moving '../../../../../ART/Game/FA24-KolbB-SchmitzW/HW2/HW2/Saved/LevelOneBFC84ABD4D1528DB613FE09D0B86F13D.tmp' to '../../../../../ART/Game/FA24-KolbB-SchmitzW/HW2/HW2/Content/LevelOne.umap'
+[2024.12.06-18.44.04:841][135]AssetCheck: New page: Asset Save: LevelOne
+[2024.12.06-18.44.04:841][135]LogContentValidation: Display: Validating World /Game/LevelOne.LevelOne
