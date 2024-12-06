@@ -1,0 +1,1465 @@
+﻿Log file open, 12/05/24 21:39:31
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogProfilingDebugging: Loading WinPixEventRuntime.dll for PIX profiling (from ../../../Engine/Binaries/ThirdParty/Windows/WinPixEventRuntime/x64).
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogWindows: Started CrashReportClient (pid=24608)
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: HW2
+LogCore: UnrealTraceServer: Trace store launch successful
+LogCsvProfiler: Display: Metadata set : platform="Windows"
+LogCsvProfiler: Display: Metadata set : config="Development"
+LogCsvProfiler: Display: Metadata set : buildversion="++UE5+Release-5.0-CL-20979098"
+LogCsvProfiler: Display: Metadata set : engineversion="5.0.3-20979098+++UE5+Release-5.0"
+LogCsvProfiler: Display: Metadata set : commandline="" D:\ART\Game\FA24-KolbB-SchmitzW\HW2\HW2\HW2.uproject""
+LogCsvProfiler: Display: Metadata set : os="Windows 10 (22H2) [10.0.19045.5198] "
+LogCsvProfiler: Display: Metadata set : cpu="AuthenticAMD|AMD Ryzen 3 2200G with Radeon Vega Graphics"
+LogCsvProfiler: Display: Metadata set : pgoenabled="0"
+LogCsvProfiler: Display: Metadata set : loginid="5c13e2db4fe48c3e972244bf385f54f6"
+LogCsvProfiler: Display: Metadata set : llm="0"
+LogPlatformFile: Not using cached read wrapper
+LogStats: Stats thread started at 0.471857
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -7:00, Platform Override: ''
+LogInit: Session CrashGUID >====================================================
+         Session CrashGUID >   UECC-Windows-7A251FE24FACFC21071C138EBD77864C
+         Session CrashGUID >====================================================
+LogConfig: Display: Loading Android ini files took 0.03 seconds
+LogConfig: Display: Loading HoloLens ini files took 0.03 seconds
+LogConfig: Display: Loading IOS ini files took 0.03 seconds
+LogConfig: Display: Loading Linux ini files took 0.04 seconds
+LogConfig: Display: Loading LinuxArm64 ini files took 0.04 seconds
+LogConfig: Display: Loading Mac ini files took 0.03 seconds
+LogConfig: Display: Loading TVOS ini files took 0.03 seconds
+LogConfig: Display: Loading Unix ini files took 0.04 seconds
+LogPluginManager: Mounting Engine plugin Bridge
+LogPluginManager: Mounting Engine plugin FastBuildController
+LogConfig: Display: Loading VulkanPC ini files took 0.03 seconds
+LogPluginManager: Mounting Engine plugin MeshPainting
+LogPluginManager: Mounting Engine plugin XGEController
+LogPluginManager: Mounting Engine plugin Paper2D
+LogPluginManager: Mounting Engine plugin AISupport
+LogPluginManager: Mounting Engine plugin EnvironmentQueryEditor
+LogPluginManager: Mounting Engine plugin CameraShakePreviewer
+LogConfig: Display: Loading Windows ini files took 0.03 seconds
+LogPluginManager: Mounting Engine plugin GameplayCameras
+LogPluginManager: Mounting Engine plugin AnimationModifierLibrary
+LogPluginManager: Mounting Engine plugin BlendSpaceMotionAnalysis
+LogPluginManager: Mounting Engine plugin ControlRig
+LogPluginManager: Mounting Engine plugin ControlRigSpline
+LogPluginManager: Mounting Engine plugin IKRig
+LogPluginManager: Mounting Engine plugin OodleNetwork
+LogPluginManager: Mounting Engine plugin AnimationSharing
+LogPluginManager: Mounting Engine plugin CLionSourceCodeAccess
+LogPluginManager: Mounting Engine plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting Engine plugin GitSourceControl
+LogPluginManager: Mounting Engine plugin NullSourceCodeAccess
+LogPluginManager: Mounting Engine plugin PerforceSourceControl
+LogPluginManager: Mounting Engine plugin PixWinPlugin
+LogPluginManager: Mounting Engine plugin PlasticSourceControl
+LogPluginManager: Mounting Engine plugin PluginUtils
+LogPluginManager: Mounting Engine plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting Engine plugin RiderSourceCodeAccess
+LogPluginManager: Mounting Engine plugin SubversionSourceControl
+LogPluginManager: Mounting Engine plugin PropertyAccessNode
+LogPluginManager: Mounting Engine plugin TextureFormatOodle
+LogPluginManager: Mounting Engine plugin TraceDataFilters
+LogPluginManager: Mounting Engine plugin UObjectPlugin
+LogPluginManager: Mounting Engine plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting Engine plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting Engine plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting Engine plugin DatasmithContent
+LogPluginManager: Mounting Engine plugin VariantManagerContent
+LogPluginManager: Mounting Engine plugin AutomationUtils
+LogPluginManager: Mounting Engine plugin BackChannel
+LogPluginManager: Mounting Engine plugin ChaosCloth
+LogPluginManager: Mounting Engine plugin ChaosClothEditor
+LogPluginManager: Mounting Engine plugin ChaosEditor
+LogPluginManager: Mounting Engine plugin ChaosNiagara
+LogPluginManager: Mounting Engine plugin ChaosSolverPlugin
+LogPluginManager: Mounting Engine plugin CharacterAI
+LogPluginManager: Mounting Engine plugin FullBodyIK
+LogPluginManager: Mounting Engine plugin AssetManagerEditor
+LogPluginManager: Mounting Engine plugin CurveEditorTools
+LogPluginManager: Mounting Engine plugin CryptoKeys
+LogPluginManager: Mounting Engine plugin DataValidation
+LogPluginManager: Mounting Engine plugin EditorDebugTools
+LogPluginManager: Mounting Engine plugin EditorScriptingUtilities
+LogPluginManager: Mounting Engine plugin FacialAnimation
+LogPluginManager: Mounting Engine plugin GameplayTagsEditor
+LogPluginManager: Mounting Engine plugin GeometryMode
+LogPluginManager: Mounting Engine plugin MacGraphicsSwitching
+LogPluginManager: Mounting Engine plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting Engine plugin MaterialAnalyzer
+LogPluginManager: Mounting Engine plugin GeometryCollectionPlugin
+LogPluginManager: Mounting Engine plugin PluginBrowser
+LogPluginManager: Mounting Engine plugin SequencerAnimTools
+LogPluginManager: Mounting Engine plugin MeshModelingToolsetExp
+LogPluginManager: Mounting Engine plugin SpeedTreeImporter
+LogPluginManager: Mounting Engine plugin WorldPartitionHLODUtilities
+LogPluginManager: Mounting Engine plugin OpenImageDenoise
+LogPluginManager: Mounting Engine plugin PlanarCut
+LogPluginManager: Mounting Engine plugin ProxyLODPlugin
+LogPluginManager: Mounting Engine plugin PythonScriptPlugin
+LogPluginManager: Mounting Engine plugin PlatformCrypto
+LogPluginManager: Mounting Engine plugin SkeletalReduction
+LogPluginManager: Mounting Engine plugin AlembicImporter
+LogPluginManager: Mounting Engine plugin Niagara
+LogPluginManager: Mounting Engine plugin AndroidMedia
+LogPluginManager: Mounting Engine plugin ImgMedia
+LogPluginManager: Mounting Engine plugin AvfMedia
+LogPluginManager: Mounting Engine plugin MediaCompositing
+LogPluginManager: Mounting Engine plugin MediaPlayerEditor
+LogPluginManager: Mounting Engine plugin WebMMedia
+LogPluginManager: Mounting Engine plugin WmfMedia
+LogPluginManager: Mounting Engine plugin ActorSequence
+LogPluginManager: Mounting Engine plugin LevelSequenceEditor
+LogPluginManager: Mounting Engine plugin MatineeToLevelSequence
+LogPluginManager: Mounting Engine plugin SequencerScripting
+LogPluginManager: Mounting Engine plugin TemplateSequence
+LogPluginManager: Mounting Engine plugin OnlineBase
+LogPluginManager: Mounting Engine plugin OnlineSubsystem
+LogPluginManager: Mounting Engine plugin OnlineSubsystemNull
+LogPluginManager: Mounting Engine plugin OnlineSubsystemUtils
+LogPluginManager: Mounting Engine plugin TcpMessaging
+LogPluginManager: Mounting Engine plugin UdpMessaging
+LogPluginManager: Mounting Engine plugin LauncherChunkInstaller
+LogPluginManager: Mounting Engine plugin ActorLayerUtilities
+LogPluginManager: Mounting Engine plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin AndroidFileServer
+LogPluginManager: Mounting Engine plugin AndroidMoviePlayer
+LogPluginManager: Mounting Engine plugin AndroidPermission
+LogPluginManager: Mounting Engine plugin AppleImageUtils
+LogPluginManager: Mounting Engine plugin AppleMoviePlayer
+LogPluginManager: Mounting Engine plugin ArchVisCharacter
+LogPluginManager: Mounting Engine plugin AssetTags
+LogPluginManager: Mounting Engine plugin AudioCapture
+LogPluginManager: Mounting Engine plugin AudioSynesthesia
+LogPluginManager: Mounting Engine plugin CableComponent
+LogPluginManager: Mounting Engine plugin ChunkDownloader
+LogPluginManager: Mounting Engine plugin CustomMeshComponent
+LogPluginManager: Mounting Engine plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin GeometryCache
+LogPluginManager: Mounting Engine plugin GeometryProcessing
+LogPluginManager: Mounting Engine plugin GoogleCloudMessaging
+LogPluginManager: Mounting Engine plugin GooglePAD
+LogPluginManager: Mounting Engine plugin HairStrands
+LogPluginManager: Mounting Engine plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin LocationServicesBPLibrary
+LogPluginManager: Mounting Engine plugin MeshModelingToolset
+LogPluginManager: Mounting Engine plugin MobilePatchingUtils
+LogPluginManager: Mounting Engine plugin OpenXR
+LogPluginManager: Mounting Engine plugin ProceduralMeshComponent
+LogPluginManager: Mounting Engine plugin PropertyAccessEditor
+LogPluginManager: Mounting Engine plugin ResonanceAudio
+LogPluginManager: Mounting Engine plugin RuntimePhysXCooking
+LogPluginManager: Mounting Engine plugin SignificanceManager
+LogPluginManager: Mounting Engine plugin SoundFields
+LogPluginManager: Mounting Engine plugin Synthesis
+LogPluginManager: Mounting Engine plugin WindowsDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin WindowsMoviePlayer
+LogPluginManager: Mounting Engine plugin WebMMoviePlayer
+LogPluginManager: Mounting Engine plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting Engine plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting Engine plugin ContentBrowserFileDataSource
+LogPluginManager: Mounting Engine plugin InterchangeEditor
+LogPluginManager: Mounting Engine plugin Interchange
+LogPluginManager: Mounting Engine plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting Engine plugin OnlineServices
+LogPluginManager: Mounting Engine plugin OnlineSubsystemIOS
+LogPluginManager: Mounting Engine plugin OculusVR
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Bridge/Content/' mounted to '/Bridge/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/2D/Paper2D/Content/' mounted to '/Paper2D/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ControlRig/Content/' mounted to '/ControlRig/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ControlRigSpline/Content/' mounted to '/ControlRigSpline/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/IKRig/Content/' mounted to '/IKRig/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Developer/AnimationSharing/Content/' mounted to '/AnimationSharing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Enterprise/DatasmithContent/Content/' mounted to '/DatasmithContent/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosClothEditor/Content/' mounted to '/ChaosClothEditor/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosNiagara/Content/' mounted to '/ChaosNiagara/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosSolverPlugin/Content/' mounted to '/ChaosSolverPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/FullBodyIK/Content/' mounted to '/FullBodyIK/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/GeometryMode/Content/' mounted to '/GeometryMode/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/GeometryCollectionPlugin/Content/' mounted to '/GeometryCollectionPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/MeshModelingToolsetExp/Content/' mounted to '/MeshModelingToolsetExp/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/SpeedTreeImporter/Content/' mounted to '/SpeedTreeImporter/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/PythonScriptPlugin/Content/' mounted to '/PythonScriptPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/FX/Niagara/Content/' mounted to '/Niagara/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Media/MediaCompositing/Content/' mounted to '/MediaCompositing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/MovieScene/SequencerScripting/Content/' mounted to '/SequencerScripting/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/AudioSynesthesia/Content/' mounted to '/AudioSynesthesia/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/GeometryProcessing/Content/' mounted to '/GeometryProcessing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/HairStrands/Content/' mounted to '/HairStrands/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/MeshModelingToolset/Content/' mounted to '/MeshModelingToolset/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/OpenXR/Content/' mounted to '/OpenXR/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/ResonanceAudio/Content/' mounted to '/ResonanceAudio/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/Synthesis/Content/' mounted to '/Synthesis/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/Oculus/OculusVR/Content/' mounted to '/OculusVR/'
+SourceControl: Source control is disabled
+SourceControl: Source control is disabled
+PixWinPlugin: PIX capture plugin failed to initialize! Check that the process is launched from PIX.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: Created online subsystem instance for: NULL
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogHMD: Failed loading OVRPlugin 1.65.0
+LogInit: Build: ++UE5+Release-5.0-CL-20979098
+LogInit: Engine Version: 5.0.3-20979098+++UE5+Release-5.0
+LogInit: Compatible Engine Version: 5.0.0-19505902+++UE5+Release-5.0
+LogInit: Net CL: 19505902
+LogInit: OS: Windows 10 (22H2) [10.0.19045.5198] (), CPU: AMD Ryzen 3 2200G with Radeon Vega Graphics    , GPU: NVIDIA GeForce GTX 1070
+LogInit: Compiled (64-bit): Jul  7 2022 02:16:06
+LogInit: Compiled with Visual C++: 19.29.30138.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE5+Release-5.0
+LogInit: Command Line: 
+LogInit: Base Directory: D:/unrel5.0.3/UE_5.0/Engine/Binaries/Win64/
+LogInit: Allocator: Mimalloc
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 34
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 20
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 45
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 13
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 59
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 3
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 41
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   UE5-Main (697DD581-E64F-41AB-AA4A-51ECBEB7B628): 59
+LogDevObjectVersion:   UE5-Release (D89B5E42-24BD-4D46-8412-ACA8DF641779): 36
+LogDevObjectVersion:   UE5-PrivateFrosty (59DA5D52-1232-4948-B878-597870B8E98B): 8
+LogDevObjectVersion:   UE5-Dev-Cooker (26075A32-730F-4708-88E9-8C32F1599D05): 0
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogDevObjectVersion:   UE5-Dev-LWCRendering (30D58BE3-95EA-4282-A6E3-B159D8EBB06A): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: CVar [[con.DebugLateDefault:1]] deferred - dummy variable created
+LogConfig: CVar [[con.DebugLateCheat:1]] deferred - dummy variable created
+LogConfig: CVar [[r.DetectAndWarnOfBadDrivers:0]] deferred - dummy variable created
+LogConfig: CVar [[LogNamedEventFilters:Frame *]] deferred - dummy variable created
+LogConfig: CVar [[framepro.ScopeMinTimeMicroseconds:10]] deferred - dummy variable created
+LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
+[2024.12.06-04.39.32:112][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [Engine]
+[2024.12.06-04.39.32:112][  0]LogConfig: CVar [[VisualizeCalibrationColorMaterialPath:None]] deferred - dummy variable created
+[2024.12.06-04.39.32:112][  0]LogConfig: CVar [[VisualizeCalibrationGrayscaleMaterialPath:None]] deferred - dummy variable created
+[2024.12.06-04.39.32:112][  0]LogConfig: CVar [[MaxSkinBones:(Default=65536,PerPlatform=(("Mobile", 256)))]] deferred - dummy variable created
+[2024.12.06-04.39.32:112][  0]LogConfig: CVar [[r.Mobile.AllowSoftwareOcclusion:0]] deferred - dummy variable created
+[2024.12.06-04.39.32:112][  0]LogConfig: CVar [[r.VT.EnableCompressZlib:1]] deferred - dummy variable created
+[2024.12.06-04.39.32:112][  0]LogConfig: CVar [[r.VT.EnableCompressCrunch:0]] deferred - dummy variable created
+[2024.12.06-04.39.32:112][  0]LogConfig: CVar [[r.DistanceFieldBuild.EightBit:0]] deferred - dummy variable created
+[2024.12.06-04.39.32:112][  0]LogConfig: CVar [[r.GenerateLandscapeGIData:0]] deferred - dummy variable created
+[2024.12.06-04.39.32:112][  0]LogConfig: CVar [[r.DistanceFieldBuild.Compress:0]] deferred - dummy variable created
+[2024.12.06-04.39.32:112][  0]LogConfig: CVar [[r.TessellationAdaptivePixelsPerTriangle:48.000000]] deferred - dummy variable created
+[2024.12.06-04.39.32:112][  0]LogConfig: CVar [[TranslucentSortAxis:(X=0.000000,Y=-1.000000,Z=0.000000)]] deferred - dummy variable created
+[2024.12.06-04.39.32:112][  0]LogConfig: CVar [[r.EyeAdaptation.EditorOnly:0]] deferred - dummy variable created
+[2024.12.06-04.39.32:112][  0]LogConfig: CVar [[r.SSGI.Enable:0]] deferred - dummy variable created
+[2024.12.06-04.39.32:112][  0]LogConfig: CVar [[bDefaultParticleCutouts:0]] deferred - dummy variable created
+[2024.12.06-04.39.32:112][  0]LogConfig: CVar [[r.SupportAtmosphericFog:1]] deferred - dummy variable created
+[2024.12.06-04.39.32:112][  0]LogConfig: CVar [[r.MobileDynamicPointLightsUseStaticBranch:1]] deferred - dummy variable created
+[2024.12.06-04.39.32:112][  0]LogConfig: CVar [[r.LightPropagationVolume:0]] deferred - dummy variable created
+[2024.12.06-04.39.32:112][  0]LogConfig: CVar [[bStreamSkeletalMeshLODs:(Default=False,PerPlatform=())]] deferred - dummy variable created
+[2024.12.06-04.39.32:112][  0]LogConfig: CVar [[bDiscardSkeletalMeshOptionalLODs:(Default=False,PerPlatform=())]] deferred - dummy variable created
+[2024.12.06-04.39.32:112][  0]LogConfig: CVar [[VisualizeCalibrationCustomMaterialPath:None]] deferred - dummy variable created
+[2024.12.06-04.39.32:112][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [Engine]
+[2024.12.06-04.39.32:112][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [Engine]
+[2024.12.06-04.39.32:112][  0]LogConfig: CVar [[s.MaxPackageSummarySize:16384]] deferred - dummy variable created
+[2024.12.06-04.39.32:112][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__SoundBase]] deferred - dummy variable created
+[2024.12.06-04.39.32:113][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__MaterialInterface]] deferred - dummy variable created
+[2024.12.06-04.39.32:113][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__DeviceProfileManager]] deferred - dummy variable created
+[2024.12.06-04.39.32:113][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [Engine]
+[2024.12.06-04.39.32:113][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [Engine]
+[2024.12.06-04.39.32:113][  0]LogConfig: CVar [[NetworkEmulationProfiles:(ProfileName="Average",ToolTip="Simulates average internet conditions")]] deferred - dummy variable created
+[2024.12.06-04.39.32:113][  0]LogConfig: CVar [[NetworkEmulationProfiles:(ProfileName="Bad",ToolTip="Simulates laggy internet conditions")]] deferred - dummy variable created
+[2024.12.06-04.39.32:113][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [Engine]
+[2024.12.06-04.39.32:113][  0]LogConfig: CVar [[DefaultPVRTCQuality:1]] deferred - dummy variable created
+[2024.12.06-04.39.32:113][  0]LogConfig: CVar [[DefaultASTCQualityBySpeed:1]] deferred - dummy variable created
+[2024.12.06-04.39.32:113][  0]LogConfig: CVar [[DefaultASTCQualityBySize:3]] deferred - dummy variable created
+[2024.12.06-04.39.32:113][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:WidgetBlueprint]] deferred - dummy variable created
+[2024.12.06-04.39.32:113][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:GroupActor]] deferred - dummy variable created
+[2024.12.06-04.39.32:113][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MetaData]] deferred - dummy variable created
+[2024.12.06-04.39.32:113][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ObjectRedirector]] deferred - dummy variable created
+[2024.12.06-04.39.32:113][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NavMeshRenderingComponent]] deferred - dummy variable created
+[2024.12.06-04.39.32:113][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ReflectionCaptureComponent]] deferred - dummy variable created
+[2024.12.06-04.39.32:113][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:TextRenderComponent]] deferred - dummy variable created
+[2024.12.06-04.39.32:113][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:Font]] deferred - dummy variable created
+[2024.12.06-04.39.32:113][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:InterpCurveEdSetup]] deferred - dummy variable created
+[2024.12.06-04.39.32:113][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MaterialExpression]] deferred - dummy variable created
+[2024.12.06-04.39.32:113][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MatineeActorCameraAnim]] deferred - dummy variable created
+[2024.12.06-04.39.32:113][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NiagaraEmitter]] deferred - dummy variable created
+[2024.12.06-04.39.32:113][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NiagaraScript]] deferred - dummy variable created
+[2024.12.06-04.39.32:113][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleEmitter]] deferred - dummy variable created
+[2024.12.06-04.39.32:113][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleLODLevel]] deferred - dummy variable created
+[2024.12.06-04.39.32:113][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleModule]] deferred - dummy variable created
+[2024.12.06-04.39.32:113][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:SubUVAnimation]] deferred - dummy variable created
+[2024.12.06-04.39.32:113][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:SoundNode]] deferred - dummy variable created
+[2024.12.06-04.39.32:113][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:GameplayEffectUIData]] deferred - dummy variable created
+[2024.12.06-04.39.32:113][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:WidgetBlueprint]] deferred - dummy variable created
+[2024.12.06-04.39.32:113][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:GroupActor]] deferred - dummy variable created
+[2024.12.06-04.39.32:113][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:MetaData]] deferred - dummy variable created
+[2024.12.06-04.39.32:113][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:ObjectRedirector]] deferred - dummy variable created
+[2024.12.06-04.39.32:113][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:InterpCurveEdSetup]] deferred - dummy variable created
+[2024.12.06-04.39.32:113][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:MatineeActorCameraAnim]] deferred - dummy variable created
+[2024.12.06-04.39.32:113][  0]LogConfig: CVar [[VersionedIntRValues:r.AllowStaticLighting]] deferred - dummy variable created
+[2024.12.06-04.39.32:113][  0]LogConfig: CVar [[VersionedIntRValues:r.GBuffer]] deferred - dummy variable created
+[2024.12.06-04.39.32:113][  0]LogConfig: CVar [[VersionedIntRValues:r.VelocityOutputPass]] deferred - dummy variable created
+[2024.12.06-04.39.32:113][  0]LogConfig: CVar [[VersionedIntRValues:r.SelectiveBasePassOutputs]] deferred - dummy variable created
+[2024.12.06-04.39.32:113][  0]LogConfig: CVar [[VersionedIntRValues:r.DBuffer]] deferred - dummy variable created
+[2024.12.06-04.39.32:113][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.Symbols]] deferred - dummy variable created
+[2024.12.06-04.39.32:113][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.GenerateSymbols]] deferred - dummy variable created
+[2024.12.06-04.39.32:113][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.WriteSymbols]] deferred - dummy variable created
+[2024.12.06-04.39.32:113][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.AllowUniqueSymbols]] deferred - dummy variable created
+[2024.12.06-04.39.32:113][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.ExtraData]] deferred - dummy variable created
+[2024.12.06-04.39.32:113][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.Optimize]] deferred - dummy variable created
+[2024.12.06-04.39.32:113][  0]LogConfig: CVar [[VersionedIntRValues:r.CompileShadersForDevelopment]] deferred - dummy variable created
+[2024.12.06-04.39.32:113][  0]LogConfig: CVar [[VersionedIntRValues:r.MobileHDR]] deferred - dummy variable created
+[2024.12.06-04.39.32:113][  0]LogConfig: CVar [[VersionedIntRValues:r.UsePreExposure]] deferred - dummy variable created
+[2024.12.06-04.39.32:118][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [Scalability]
+[2024.12.06-04.39.32:118][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [Scalability]
+[2024.12.06-04.39.32:118][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [Scalability]
+[2024.12.06-04.39.32:118][  0]LogConfig: Applying CVar settings from Section [GlobalIlluminationQuality@3] File [Scalability]
+[2024.12.06-04.39.32:118][  0]LogConfig: Applying CVar settings from Section [ReflectionQuality@3] File [Scalability]
+[2024.12.06-04.39.32:118][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [Scalability]
+[2024.12.06-04.39.32:118][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [Scalability]
+[2024.12.06-04.39.32:118][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [Scalability]
+[2024.12.06-04.39.32:118][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [Scalability]
+[2024.12.06-04.39.32:118][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [Scalability]
+[2024.12.06-04.39.32:118][  0]LogConfig: CVar [[r.HairStrands.Interpolation.UseSingleGuide:0]] deferred - dummy variable created
+[2024.12.06-04.39.32:132][  0]LogD3D12RHI: Aftermath initialized
+[2024.12.06-04.39.32:132][  0]LogD3D12RHI: Loading WinPixEventRuntime.dll for PIX profiling (from ../../../Engine/Binaries/ThirdParty/Windows/WinPixEventRuntime/x64).
+[2024.12.06-04.39.32:410][  0]LogHMD: Optional extension XR_VARJO_quad_views is not available
+[2024.12.06-04.39.32:410][  0]LogHMD: Optional extension XR_KHR_binding_modification is not available
+[2024.12.06-04.39.32:410][  0]LogHMD: Optional extension XR_EXT_dpad_binding is not available
+[2024.12.06-04.39.32:416][  0]LogHMD: Initialized OpenXR on Oculus runtime version 1.103.0
+[2024.12.06-04.39.32:416][  0]LogHMD: Failed to get an OpenXR system, result is XR_ERROR_FORM_FACTOR_UNAVAILABLE. Please check that your runtime supports VR headsets.
+[2024.12.06-04.39.32:761][  0]LogD3D12RHI: Found D3D12 adapter 0: NVIDIA GeForce GTX 1070 (Max supported Feature Level 12_1, shader model 6.6)
+[2024.12.06-04.39.32:761][  0]LogD3D12RHI: Adapter has 8067MB of dedicated video memory, 0MB of dedicated system memory, and 8165MB of shared system memory, 1 output[s]
+[2024.12.06-04.39.32:776][  0]LogD3D12RHI: Found D3D12 adapter 1: Microsoft Basic Render Driver (Max supported Feature Level 12_1, shader model 6.2)
+[2024.12.06-04.39.32:776][  0]LogD3D12RHI: Adapter has 0MB of dedicated video memory, 0MB of dedicated system memory, and 8165MB of shared system memory, 0 output[s]
+[2024.12.06-04.39.32:995][  0]LogD3D12RHI: Found D3D12 adapter 2: NVIDIA GeForce GTX 1070 (Max supported Feature Level 12_1, shader model 6.6)
+[2024.12.06-04.39.32:995][  0]LogD3D12RHI: Adapter has 8067MB of dedicated video memory, 0MB of dedicated system memory, and 8165MB of shared system memory, 0 output[s]
+[2024.12.06-04.39.32:995][  0]LogD3D12RHI: Chosen D3D12 Adapter Id = 0
+[2024.12.06-04.39.32:995][  0]LogInit: Selected Device Profile: [WindowsEditor]
+[2024.12.06-04.39.32:995][  0]LogDeviceProfileManager: Applying CVar settings loaded from the selected device profile: [WindowsEditor]
+[2024.12.06-04.39.32:995][  0]LogHAL: Display: Platform has ~ 16 GB [17124503552 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2024.12.06-04.39.32:995][  0]LogDeviceProfileManager: Going up to parent DeviceProfile [Windows]
+[2024.12.06-04.39.32:995][  0]LogDeviceProfileManager: Going up to parent DeviceProfile []
+[2024.12.06-04.39.32:995][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2024.12.06-04.39.32:996][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [Engine]
+[2024.12.06-04.39.32:996][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/ART/Game/FA24-KolbB-SchmitzW/HW2/HW2/Saved/Config/WindowsEditor/Editor.ini]
+[2024.12.06-04.39.32:996][  0]LogInit: Computer: DESKTOP-QGCS902
+[2024.12.06-04.39.32:996][  0]LogInit: User: Will
+[2024.12.06-04.39.32:996][  0]LogInit: CPU Page size=4096, Cores=4
+[2024.12.06-04.39.32:996][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2024.12.06-04.39.32:996][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2024.12.06-04.39.32:996][  0]LogMemory: Platform Memory Stats for WindowsEditor
+[2024.12.06-04.39.32:996][  0]LogMemory: Process Physical Memory: 275.27 MB used, 292.03 MB peak
+[2024.12.06-04.39.32:996][  0]LogMemory: Process Virtual Memory: 218.77 MB used, 218.77 MB peak
+[2024.12.06-04.39.32:996][  0]LogMemory: Physical Memory: 10122.52 MB used,  6208.68 MB free, 16331.20 MB total
+[2024.12.06-04.39.32:996][  0]LogMemory: Virtual Memory: 14710.07 MB used,  4565.13 MB free, 19275.20 MB total
+[2024.12.06-04.39.32:996][  0]LogCsvProfiler: Display: Metadata set : extradevelopmentmemorymb="0"
+[2024.12.06-04.39.33:008][  0]LogWindows: WindowsPlatformFeatures enabled
+[2024.12.06-04.39.33:046][  0]LogInit: Physics initialised using underlying interface: Chaos
+[2024.12.06-04.39.33:047][  0]LogInit: Using OS detected language (en-US).
+[2024.12.06-04.39.33:047][  0]LogInit: Using OS detected locale (en-US).
+[2024.12.06-04.39.33:051][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so 'en' will be used for the language.
+[2024.12.06-04.39.33:293][  0]LogInit: Setting process to per monitor DPI aware
+[2024.12.06-04.39.33:324][  0]LogWindowsTextInputMethodSystem: Available input methods:
+[2024.12.06-04.39.33:324][  0]LogWindowsTextInputMethodSystem:   - English (United States) - (Keyboard).
+[2024.12.06-04.39.33:324][  0]LogWindowsTextInputMethodSystem: Activated input method: English (United States) - (Keyboard).
+[2024.12.06-04.39.33:370][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2024.12.06-04.39.33:370][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2024.12.06-04.39.33:677][  0]LogD3D12RHI: InitD3DDevice: -D3DDebug = off -D3D12GPUValidation = off
+[2024.12.06-04.39.33:689][  0]LogD3D12RHI: [Aftermath] Aftermath crash dumping enabled
+[2024.12.06-04.39.33:689][  0]LogD3D12RHI: Emitting draw events for PIX profiling.
+[2024.12.06-04.39.33:877][  0]LogD3D12RHI: [Aftermath] Aftermath enabled and primed
+[2024.12.06-04.39.33:877][  0]LogD3D12RHI: [Aftermath] Aftermath resource tracking enabled
+[2024.12.06-04.39.33:877][  0]LogD3D12RHI: ID3D12Device1 is supported.
+[2024.12.06-04.39.33:877][  0]LogD3D12RHI: ID3D12Device2 is supported.
+[2024.12.06-04.39.33:877][  0]LogD3D12RHI: ID3D12Device3 is supported.
+[2024.12.06-04.39.33:877][  0]LogD3D12RHI: ID3D12Device4 is supported.
+[2024.12.06-04.39.33:877][  0]LogD3D12RHI: ID3D12Device5 is supported.
+[2024.12.06-04.39.33:877][  0]LogD3D12RHI: ID3D12Device6 is supported.
+[2024.12.06-04.39.33:877][  0]LogD3D12RHI: ID3D12Device7 is supported.
+[2024.12.06-04.39.33:877][  0]LogD3D12RHI: D3D12 ray tracing tier 1.0 is supported.
+[2024.12.06-04.39.33:878][  0]LogD3D12RHI: AtomicInt64OnTypedResource is supported
+[2024.12.06-04.39.33:878][  0]LogD3D12RHI: AtomicInt64OnGroupShared is supported
+[2024.12.06-04.39.33:878][  0]LogD3D12RHI: AtomicInt64OnDescriptorHeapResource is supported
+[2024.12.06-04.39.33:878][  0]LogD3D12RHI: Shader Model 6.6 atomic64 is supported
+[2024.12.06-04.39.33:937][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for 3D Queue 0
+[2024.12.06-04.39.33:948][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for Copy Queue 0
+[2024.12.06-04.39.33:968][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for Compute Queue 0
+[2024.12.06-04.39.33:978][  0]LogD3D12RHI: Display: Not using pipeline state disk cache per r.D3D12.PSO.DiskCache=0
+[2024.12.06-04.39.33:978][  0]LogD3D12RHI: Display: Not using driver-optimized pipeline state disk cache per r.D3D12.PSO.DriverOptimizedDiskCache=0
+[2024.12.06-04.39.34:016][  0]LogD3D12RHI: Warning: Ray tracing is disabled for NVIDIA cards with the Pascal architecture.
+[2024.12.06-04.39.34:016][  0]LogD3D12RHI:     GPU DeviceId: 0x1b81 (for the marketing name, search the web for "GPU Device Id")
+[2024.12.06-04.39.34:016][  0]LogWindows: Attached monitors:
+[2024.12.06-04.39.34:016][  0]LogWindows:     resolution: 1920x1080, work area: (0, 0) -> (1920, 1040), device: '\\.\DISPLAY1' [PRIMARY]
+[2024.12.06-04.39.34:016][  0]LogWindows: Found 1 attached monitors.
+[2024.12.06-04.39.34:016][  0]LogWindows: EnumDisplayDevices:
+[2024.12.06-04.39.34:017][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1070' (P:1 D:1), name: '\\.\DISPLAY1'
+[2024.12.06-04.39.34:017][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1070' (P:0 D:0), name: '\\.\DISPLAY2'
+[2024.12.06-04.39.34:018][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1070' (P:0 D:0), name: '\\.\DISPLAY3'
+[2024.12.06-04.39.34:018][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1070' (P:0 D:0), name: '\\.\DISPLAY4'
+[2024.12.06-04.39.34:019][  0]LogWindows:    4. 'Meta Virtual Monitor' (P:0 D:0), name: '\\.\DISPLAY5'
+[2024.12.06-04.39.34:019][  0]LogWindows:    5. 'Meta Virtual Monitor' (P:0 D:0), name: '\\.\DISPLAY6'
+[2024.12.06-04.39.34:020][  0]LogWindows:    6. 'Meta Virtual Monitor' (P:0 D:0), name: '\\.\DISPLAY7'
+[2024.12.06-04.39.34:020][  0]LogWindows:    7. 'Meta Virtual Monitor' (P:0 D:0), name: '\\.\DISPLAY8'
+[2024.12.06-04.39.34:021][  0]LogWindows:    8. 'Meta Virtual Monitor' (P:0 D:0), name: '\\.\DISPLAY9'
+[2024.12.06-04.39.34:022][  0]LogWindows:    9. 'Meta Virtual Monitor' (P:0 D:0), name: '\\.\DISPLAY10'
+[2024.12.06-04.39.34:022][  0]LogWindows:    10. 'Meta Virtual Monitor' (P:0 D:0), name: '\\.\DISPLAY11'
+[2024.12.06-04.39.34:023][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2024.12.06-04.39.34:023][  0]LogD3D12RHI:     Adapter Name: NVIDIA GeForce GTX 1070
+[2024.12.06-04.39.34:023][  0]LogD3D12RHI:   Driver Version: 566.03 (internal:32.0.15.6603, unified:566.03)
+[2024.12.06-04.39.34:023][  0]LogD3D12RHI:      Driver Date: 10-15-2024
+[2024.12.06-04.39.34:023][  0]LogRHI: Texture pool is 4598 MB (70% of 6569 MB)
+[2024.12.06-04.39.34:023][  0]LogD3D12RHI: Async texture creation enabled
+[2024.12.06-04.39.34:023][  0]LogD3D12RHI: RHI has support for 64 bit atomics
+[2024.12.06-04.39.34:040][  0]LogRHI: GeForceNow SDK initialized: 0
+[2024.12.06-04.39.34:056][  0]LogTurnkeySupport: Running Turnkey SDK detection: ' -ScriptsForProject="D:/ART/Game/FA24-KolbB-SchmitzW/HW2/HW2/HW2.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="D:/ART/Game/FA24-KolbB-SchmitzW/HW2/HW2/Intermediate/TurnkeyReport_0.log" -log="D:/ART/Game/FA24-KolbB-SchmitzW/HW2/HW2/Intermediate/TurnkeyLog_0.log" -project="D:/ART/Game/FA24-KolbB-SchmitzW/HW2/HW2/HW2.uproject"  -platform=all'
+[2024.12.06-04.39.34:056][  0]LogMonitoredProcess: Running Serialized UAT: [ cmd.exe /c ""D:/unrel5.0.3/UE_5.0/Engine/Build/BatchFiles/RunUAT.bat"  -ScriptsForProject="D:/ART/Game/FA24-KolbB-SchmitzW/HW2/HW2/HW2.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="D:/ART/Game/FA24-KolbB-SchmitzW/HW2/HW2/Intermediate/TurnkeyReport_0.log" -log="D:/ART/Game/FA24-KolbB-SchmitzW/HW2/HW2/Intermediate/TurnkeyLog_0.log" -project="D:/ART/Game/FA24-KolbB-SchmitzW/HW2/HW2/HW2.uproject"  -platform=all" ]
+[2024.12.06-04.39.34:195][  0]LogTextureFormatETC2: Display: ETC2 Texture loading DLL: TextureConverter.dll
+[2024.12.06-04.39.34:224][  0]LogTextureFormatOodle: Display: Oodle Texture TFO init; latest sdk version = 2.9.5
+[2024.12.06-04.39.34:225][  0]LogTextureFormatOodle: Display: Oodle Texture loading DLL: oo2tex_win64_2.9.5.dll
+[2024.12.06-04.39.34:241][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2024.12.06-04.39.34:241][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2024.12.06-04.39.34:241][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2024.12.06-04.39.34:241][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2024.12.06-04.39.34:241][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2024.12.06-04.39.34:241][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2024.12.06-04.39.34:241][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2024.12.06-04.39.34:241][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2024.12.06-04.39.34:241][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2024.12.06-04.39.34:241][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2024.12.06-04.39.34:285][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'HoloLens'
+[2024.12.06-04.39.34:285][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'HoloLensClient'
+[2024.12.06-04.39.34:297][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2024.12.06-04.39.34:297][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2024.12.06-04.39.34:306][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2024.12.06-04.39.34:306][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxEditor'
+[2024.12.06-04.39.34:306][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2024.12.06-04.39.34:306][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2024.12.06-04.39.34:313][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64'
+[2024.12.06-04.39.34:313][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64Server'
+[2024.12.06-04.39.34:313][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64Client'
+[2024.12.06-04.39.34:322][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2024.12.06-04.39.34:322][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2024.12.06-04.39.34:337][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2024.12.06-04.39.34:337][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsEditor'
+[2024.12.06-04.39.34:337][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2024.12.06-04.39.34:337][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2024.12.06-04.39.34:337][  0]LogTargetPlatformManager: Display: Building Assets For WindowsEditor
+[2024.12.06-04.39.34:364][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2024.12.06-04.39.34:372][  0]LogTargetPlatformManager: Unable to find audio format BINKA from hinted modules, loading all potential format modules to find it
+[2024.12.06-04.39.34:372][  0]LogTargetPlatformManager: Loaded format module AudioFormatADPCM
+[2024.12.06-04.39.34:372][  0]LogTargetPlatformManager:   ADPCM
+[2024.12.06-04.39.34:372][  0]LogTargetPlatformManager:   PCM
+[2024.12.06-04.39.34:379][  0]LogTargetPlatformManager: Loaded format module AudioFormatBink
+[2024.12.06-04.39.34:379][  0]LogTargetPlatformManager:   BINKA
+[2024.12.06-04.39.34:379][  0]LogTargetPlatformManager: Loaded format module AudioFormatOgg
+[2024.12.06-04.39.34:379][  0]LogTargetPlatformManager:   OGG
+[2024.12.06-04.39.34:379][  0]LogTargetPlatformManager: Loaded format module AudioFormatOpus
+[2024.12.06-04.39.34:379][  0]LogTargetPlatformManager:   OPUS
+[2024.12.06-04.39.34:461][  0]LogTargetPlatformManager: Unable to find shader format SF_METAL from hinted modules, loading all potential format modules to find it
+[2024.12.06-04.39.34:478][  0]LogTargetPlatformManager: Loaded format module MetalShaderFormat
+[2024.12.06-04.39.34:478][  0]LogTargetPlatformManager:   SF_METAL
+[2024.12.06-04.39.34:478][  0]LogTargetPlatformManager:   SF_METAL_MRT
+[2024.12.06-04.39.34:478][  0]LogTargetPlatformManager:   SF_METAL_TVOS
+[2024.12.06-04.39.34:478][  0]LogTargetPlatformManager:   SF_METAL_MRT_TVOS
+[2024.12.06-04.39.34:478][  0]LogTargetPlatformManager:   SF_METAL_SM5
+[2024.12.06-04.39.34:478][  0]LogTargetPlatformManager:   SF_METAL_MACES3_1
+[2024.12.06-04.39.34:478][  0]LogTargetPlatformManager:   SF_METAL_MRT_MAC
+[2024.12.06-04.39.34:478][  0]LogTargetPlatformManager: Loaded format module ShaderFormatD3D
+[2024.12.06-04.39.34:478][  0]LogTargetPlatformManager:   PCD3D_SM6
+[2024.12.06-04.39.34:478][  0]LogTargetPlatformManager:   PCD3D_SM5
+[2024.12.06-04.39.34:478][  0]LogTargetPlatformManager:   PCD3D_ES31
+[2024.12.06-04.39.34:478][  0]LogTargetPlatformManager:   D3D_ES3_1_HOLOLENS
+[2024.12.06-04.39.34:478][  0]LogTargetPlatformManager: Loaded format module ShaderFormatOpenGL
+[2024.12.06-04.39.34:478][  0]LogTargetPlatformManager:   GLSL_150_ES31
+[2024.12.06-04.39.34:478][  0]LogTargetPlatformManager:   GLSL_ES3_1_ANDROID
+[2024.12.06-04.39.34:485][  0]LogTargetPlatformManager: Loaded format module ShaderFormatVectorVM
+[2024.12.06-04.39.34:485][  0]LogTargetPlatformManager:   VVM_1_0
+[2024.12.06-04.39.34:485][  0]LogTargetPlatformManager: Loaded format module VulkanShaderFormat
+[2024.12.06-04.39.34:485][  0]LogTargetPlatformManager:   SF_VULKAN_SM5
+[2024.12.06-04.39.34:485][  0]LogTargetPlatformManager:   SF_VULKAN_ES31_ANDROID
+[2024.12.06-04.39.34:485][  0]LogTargetPlatformManager:   SF_VULKAN_ES31
+[2024.12.06-04.39.34:485][  0]LogTargetPlatformManager:   SF_VULKAN_SM5_ANDROID
+[2024.12.06-04.39.34:485][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2024.12.06-04.39.34:486][  0]LogShaderCompilers: Display: Compiling shader autogen file: ../../../../../ART/Game/FA24-KolbB-SchmitzW/HW2/HW2/Intermediate/ShaderAutogen/PCD3D_SM5/AutogenShaderHeaders.ush
+[2024.12.06-04.39.34:486][  0]LogShaderCompilers: Display: Autogen file is unchanged, skipping write.
+[2024.12.06-04.39.34:486][  0]LogShaderCompilers: Display: Compiling shader autogen file: ../../../../../ART/Game/FA24-KolbB-SchmitzW/HW2/HW2/Intermediate/ShaderAutogen/PCD3D_ES31/AutogenShaderHeaders.ush
+[2024.12.06-04.39.34:486][  0]LogShaderCompilers: Display: Autogen file is unchanged, skipping write.
+[2024.12.06-04.39.34:491][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../ART/Game/FA24-KolbB-SchmitzW/HW2/HW2/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2024.12.06-04.39.34:491][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchy Hierarchy.
+[2024.12.06-04.39.34:491][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../ART/Game/FA24-KolbB-SchmitzW/HW2/HW2/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2024.12.06-04.39.34:491][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchy Hierarchy.
+[2024.12.06-04.39.34:516][  0]LogDerivedDataCache: Display: ../../../Engine/DerivedDataCache/Compressed.ddp: Opened pak cache for reading. (1230 MiB)
+[2024.12.06-04.39.34:516][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2024.12.06-04.39.34:516][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchy Hierarchy.
+[2024.12.06-04.39.34:530][  0]LogDerivedDataCache: Speed tests for C:/Users/Will/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.01 seconds
+[2024.12.06-04.39.34:530][  0]LogDerivedDataCache: Display: Performance to C:/Users/Will/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.08ms. RandomReadSpeed=483.21MBs, RandomWriteSpeed=86.36MBs. Assigned SpeedClass 'Local'
+[2024.12.06-04.39.34:531][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Will/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2024.12.06-04.39.34:531][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2024.12.06-04.39.34:531][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchy Hierarchy.
+[2024.12.06-04.39.34:540][  0]LogVirtualization: VirtualizationSystem name found in ini file: None
+[2024.12.06-04.39.34:540][  0]LogVirtualization: FNullVirtualizationSystem mounted, virtualization will be disabled
+[2024.12.06-04.39.34:541][  0]LogShaderCompilers: Guid format shader working directory is -7 characters bigger than the processId version (../../../../../ART/Game/FA24-KolbB-SchmitzW/HW2/HW2/Intermediate/Shaders/WorkingDirectory/13748/).
+[2024.12.06-04.39.34:541][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Will/AppData/Local/Temp/UnrealShaderWorkingDir/FA674B5A4BC829546DB92094DAE4BE9B/'.
+[2024.12.06-04.39.34:542][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2024.12.06-04.39.34:542][  0]LogShaderCompilers: Display: Using Local Shader Compiler with 3 workers.
+[2024.12.06-04.39.36:480][  0]LogTurnkeySupport: Completed SDK detection: ExitCode = 0
+[2024.12.06-04.39.36:480][  0]LogSlate: Using FreeType 2.10.0
+[2024.12.06-04.39.36:480][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2024.12.06-04.39.36:481][  0]LogHMD: Failed to get an OpenXR system, result is XR_ERROR_FORM_FACTOR_UNAVAILABLE. Please check that your runtime supports VR headsets.
+[2024.12.06-04.39.36:544][  0]LogAssetRegistry: FAssetRegistry took 0.0186 seconds to start up
+[2024.12.06-04.39.36:553][  0]LogEditorDomain: Display: EditorDomain is Disabled
+[2024.12.06-04.39.36:821][  0]LogSerialization: UsePackageTrailer: 'false'
+[2024.12.06-04.39.36:822][  0]LogTexture: Display: Texture Encode Speed: FinalIfAvailable (editor).
+[2024.12.06-04.39.37:210][  0]LogInit: Selected Device Profile: [WindowsEditor]
+[2024.12.06-04.39.37:210][  0]LogDeviceProfileManager: Active device profile: [000008F58B447000][000008F58077C800 50] WindowsEditor
+[2024.12.06-04.39.37:210][  0]LogDeviceProfileManager: Profiles: [000008F58B446AC0][000008F5806F7800 50] Windows, [000008F58B447000][000008F58077C800 50] WindowsEditor, [000008F58B442A00][000008F582252800 50] WindowsServer, [000008F58B446580][000008F57127C800 50] WindowsClient, [000008F58B4439C0][000008F58B6D0000 50] IOS, [000008F58B4463C0][000008F58B6D5000 50] iPadAir2, [000008F58B446200][000008F58B6DA000 50] IPadPro, [000008F58B443F00][000008F58B6D7800 50] iPadAir3, [000008F58B4447C0][000008F58B6DC800 50] iPadAir4, [000008F58B4478C0][000008F58225A000 50] iPadMini4, [000008F58B442140][000008F58B6E0000 50] iPadMini5, [000008F58B442300][000008F58B6E5000 50] iPadMini6, [000008F58B44A480][000008F58B6EC800 50] iPhone6S, [000008F58B44A800][000008F58B6EA000 50] iPhone7, [000008F58B44AB80][000008F58B6E7800 50] iPodTouch7, [000008F58B4494C0][000008F58B6D2800 50] iPhone6SPlus, [000008F58B44A2C0][000008F58B740000 50] iPhone7Plus, [000008F58B443B80][000008F58B745000 50] iPhoneSE, [000008F58B445400][000008F58B747800 50] iPhone8, [000008F58B448A40][000008F58B74A000 50] iPhone8Plus, [000008F58B444600][000008F58B74C800 50] iPhoneX, [000008F58B442D80][000008F58B6E2800 50] iPhoneXS, [000008F58B445B00][000008F58B6F0000 50] iPhoneXSMax, [000008F58B449300][000008F58B6F5000 50] iPhoneXR, [000008F58B4486C0][000008F58B6F7800 50] iPhone11, [000008F58B445080][000008F58B6FA000 50] iPhone11Pro, [000008F58B448880][000008F58B6FC800 50] iPhone11ProMax, [000008F58B444440][000008F58B742800 50] iPhoneSE2, [000008F58B445240][000008F58B700000 50] iPhone12Mini, [000008F58B444980][000008F58B705000 50] iPhone12, [000008F58B445780][000008F58B707800 50] iPhone12Pro, [000008F58B44A9C0][000008F58B70A000 50] iPhone12ProMax, [000008F58B446E40][000008F58B70C800 50] iPhone13Mini, [000008F58B4471C0][000008F58B6F2800 50] iPhone13, [000008F58B443480][000008F58B710000 50] iPhone13Pro, [000008F58B4455C0][000008F58B715000 50] iPhone13ProMax, [000008F58B444280][000008F58B717800 50] iPadPro105, [000008F58B447E00][000008F58B71A000 50] iPadPro129, [000008F58B448180][000008F58B71C800 50] iPadPro97, [000008F58B442BC0][000008F58B702800 50] iPadPro2_129, [000008F58B449140][000008F58B720000 50] iPad5, [000008F58B447380][000008F58B725000 50] iPad6, [000008F58B444EC0][000008F58B727800 50] iPad7, [000008F58B447C40][000008F58B72A000 50] iPad8, [000008F58B446040][000008F58B72C800 50] iPad9, [000008F58B448DC0][000008F58B712800 50] iPadPro11, [000008F58B444B40][000008F58B760000 50] iPadPro2_11, [000008F58B443800][000008F58B765000 50] iPadPro3_11, [000008F58B446900][000008F58B767800 50] iPadPro3_129, [000008F58B447540][000008F58B76A000 50] iPadPro4_129, [000008F58B447A80][000008F58B76C800 50] iPadPro5_129, [000008F58B449A00][000008F58B722800 50] AppleTV, [000008F58B446740][000008F58B770000 50] AppleTV4K, [000008F58B443D40][000008F58B775000 50] TVOS, [000008F58B44CB00][000008F58B77A000 50] Mac, [000008F58B44CE80][000008F58B777800 50] MacEditor, [000008F58B449F40][000008F58B77C800 50] MacClient, [000008F58B44C5C0][000008F58B762800 50] MacServer, [000008F58B44D040][000008F58B782800 50] Linux, [000008F58B448500][000008F58B780000 50] LinuxEditor, [000008F58B44C080][000008F58B787800 50] LinuxArm64Editor, [000008F58B44C940][000008F58B78A000 50] LinuxArm64, [000008F58B44D200][000008F58B78C800 50] LinuxClient, [000008F58B44C400][000008F58B772800 50] LinuxArm64Client, [000008F58B44D3C0][000008F58B790000 50] LinuxServer, [000008F58B448F80][000008F58B795000 50] LinuxArm64Server, [000008F58B44A640][000008F58B797800 50] Android, [000008F58B44D580][000008F58B79A000 50] Android_Preview_OpenGL, [000008F58B44B0C0][000008F58B79C800 50] Android_Preview_Vulkan, [000008F58B442F40][000008F58B785000 50] Android_Low, [000008F58B44C240][000008F58B7A0000 50] Android_Mid, [000008F58B449680][000008F58B7A5000 50] Android_High, [000008F58B44B980][000008F58B7A7800 50] Android_Default, [000008F58B449BC0][000008F58B7AA000 50] Android_Adreno4xx, [000008F58B44CCC0][000008F58B7AC800 50] Android_Adreno5xx_Low, [000008F58B44C780][000008F58B792800 50] Android_Adreno5xx, [000008F58B44B440][000008F58B7B0000 50] Android_Adreno6xx, [000008F58B441F80][000008F58B7B5000 50] Android_Adreno6xx_Vulkan, [000008F58B448340][000008F58B7B7800 50] Android_Adreno7xx, [000008F58B44B280][000008F58B7BA000 50] Android_Adreno7xx_Vulkan, [000008F58B445940][000008F58B7BC800 50] Android_Mali_T6xx, [000008F58B4432C0][000008F58B7A2800 50] Android_Mali_T7xx, [000008F58B443100][000008F58B7C0000 50] Android_Mali_T8xx, [000008F58B44B7C0][000008F58B7C5000 50] Android_Mali_G71, [000008F58B448C00][000008F58B7C7800 50] Android_Mali_G72, [000008F58B44BD00][000008F58B7CA000 50] Android_Mali_G72_Vulkan, [000008F58B44E700][000008F58B7CC800 50] Android_Mali_G76, [000008F58B445CC0][000008F58B7B2800 50] Android_Mali_G76_Vulkan, [000008F58B44BEC0][000008F58B7D0000 50] Android_Mali_G77, [000008F58B44A100][000008F58B7D5000 50] Android_Mali_G77_Vulkan, [000008F58B445E80][000008F58B7D7800 50] Android_Mali_G78, [000008F58B44E1C0][000008F58B7DA000 50] Android_Mali_G78_Vulkan, [000008F58B449840][000008F58B7DC800 50] Android_Mali_G710, [000008F58B443640][000008F58B7C2800 50] Android_Mali_G710_Vulkan, [000008F58B44B600][000008F58B7E0000 50] Android_Xclipse_920, [000008F58B44F6C0][000008F58B7E5000 50] Android_Xclipse_920_Vulkan, [000008F58B44AD40][000008F58B7E7800 50] Android_Vulkan_SM5, [000008F58B44E000][000008F58B7EA000 50] Android_PowerVR_G6xxx, [000008F58B44EA80][000008F58B7EC800 50] Android_PowerVR_GT7xxx, [000008F58B44DE40][000008F58B7D2800 50] Android_PowerVR_GE8xxx, [000008F58B444D00][000008F58B7F0000 50] Android_PowerVR_GM9xxx, [000008F58B44BB40][000008F58B7F5000 50] Android_PowerVR_GM9xxx_Vulkan, [000008F58B44F500][000008F58B7F7800 50] Android_TegraK1, [000008F58B44DC80][000008F58B7FA000 50] Android_Unknown_Vulkan, [000008F58B447FC0][000008F58B7FC800 50] Oculus_Quest, [000008F58B810000][000008F58B7E2800 50] Oculus_Quest2, [000008F58B812300][000008F58B820000 50] HoloLens, 
+[2024.12.06-04.39.37:210][  0]LogCsvProfiler: Display: Metadata set : deviceprofile="WindowsEditor"
+[2024.12.06-04.39.37:213][  0]LogTurnkeySupport: Turnkey Platform: Android: (Status=Invalid, Installed=, AutoSDK=, MinAllowed=r21a, MaxAllowed=r23a, Flags="Platform_ValidHostPrerequisites")
+[2024.12.06-04.39.37:213][  0]LogTurnkeySupport: Turnkey Platform: HoloLens: (Status=Valid, Installed=10.0.22621.0, AutoSDK=, MinAllowed=10.0.00000.0, MaxAllowed=10.9.99999.0, Flags="InstalledSdk_ValidVersionExists")
+[2024.12.06-04.39.37:213][  0]LogTurnkeySupport: Turnkey Platform: IOS: (Status=Invalid, Installed=, AutoSDK=, MinAllowed=1100.0.0.0, MaxAllowed=1399.0, Flags="Platform_ValidHostPrerequisites")
+[2024.12.06-04.39.37:213][  0]LogTurnkeySupport: Turnkey Platform: Linux: (Status=Invalid, Installed=, AutoSDK=, MinAllowed=v20_clang-13.0.1-centos7, MaxAllowed=v20_clang-13.0.1-centos7, Flags="Platform_ValidHostPrerequisites")
+[2024.12.06-04.39.37:213][  0]LogTurnkeySupport: Turnkey Platform: LinuxArm64: (Status=Invalid, Installed=, AutoSDK=, MinAllowed=v20_clang-13.0.1-centos7, MaxAllowed=v20_clang-13.0.1-centos7, Flags="Platform_ValidHostPrerequisites")
+[2024.12.06-04.39.37:213][  0]LogTurnkeySupport: Turnkey Platform: TVOS: (Status=Invalid, Installed=, AutoSDK=, MinAllowed=1100.0.0.0, MaxAllowed=1399.0, Flags="Platform_ValidHostPrerequisites")
+[2024.12.06-04.39.37:213][  0]LogTurnkeySupport: Turnkey Platform: Win64: (Status=Valid, Installed=10.0.22621.0, AutoSDK=, MinAllowed=10.0.00000.0, MaxAllowed=10.9.99999.0, Flags="InstalledSdk_ValidVersionExists")
+[2024.12.06-04.39.37:247][  0]LogTexture: Display: Oodle Texture Encode Speed settings: Fast: RDO Off Lambda=0, Effort=Normal Final: RDO Off Lambda=0, Effort=Normal
+[2024.12.06-04.39.37:522][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2024.12.06-04.39.37:522][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2024.12.06-04.39.37:522][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2024.12.06-04.39.37:522][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2024.12.06-04.39.37:523][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2024.12.06-04.39.37:555][  0]LogNetVersion: HW2 1.0.0, NetCL: 19505902, EngineNetVer: 23, GameNetVer: 0 (Checksum: 1425767973)
+[2024.12.06-04.39.37:755][  0]LogSlate: Border
+[2024.12.06-04.39.37:755][  0]LogSlate: BreadcrumbButton
+[2024.12.06-04.39.37:755][  0]LogSlate: Default
+[2024.12.06-04.39.37:755][  0]LogSlate: Icons.Save
+[2024.12.06-04.39.37:755][  0]LogSlate: Icons.Toolbar.Settings
+[2024.12.06-04.39.37:755][  0]LogSlate: ListView
+[2024.12.06-04.39.37:755][  0]LogSlate: SoftwareCursor_CardinalCross
+[2024.12.06-04.39.37:755][  0]LogSlate: SoftwareCursor_Grab
+[2024.12.06-04.39.37:755][  0]LogSlate: TableView.DarkRow
+[2024.12.06-04.39.37:755][  0]LogSlate: TableView.Row
+[2024.12.06-04.39.37:755][  0]LogSlate: TreeView
+[2024.12.06-04.39.38:041][  0]SourceControl: Source control is disabled
+[2024.12.06-04.39.38:084][  0]SourceControl: Source control is disabled
+[2024.12.06-04.39.38:084][  0]SourceControl: Source control is disabled
+[2024.12.06-04.39.38:246][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2024.12.06-04.39.38:264][  0]LogUObjectArray: 20625 objects as part of root set at end of initial load.
+[2024.12.06-04.39.38:264][  0]LogUObjectAllocator: 5604136 out of 0 bytes used by permanent object pool.
+[2024.12.06-04.39.38:264][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2024.12.06-04.39.38:985][  0]LogPython: Using Python 3.9.7
+[2024.12.06-04.39.40:380][  0]LogNiagaraDebuggerClient: Niagara Debugger Client Initialized | Session: 0709A9434AFFA51BE51626B8B64EA0D1 | Instance: 2A9E25F14F7A735A2308FA8E63BCF369 (DESKTOP-QGCS902-13748).
+[2024.12.06-04.39.40:469][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2024.12.06-04.39.40:479][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2024.12.06-04.39.40:672][  0]SourceControl: Source control is disabled
+[2024.12.06-04.39.40:679][  0]SourceControl: Source control is disabled
+[2024.12.06-04.39.40:705][  0]SourceControl: Source control is disabled
+[2024.12.06-04.39.40:726][  0]LogUProjectInfo: Found projects:
+[2024.12.06-04.39.41:251][  0]LogOpenImageDenoise: OIDN starting up
+[2024.12.06-04.39.41:399][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2024.12.06-04.39.41:453][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2024.12.06-04.39.41:453][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2024.12.06-04.39.41:732][  0]LogCollectionManager: Loaded 0 collections in 0.001430 seconds
+[2024.12.06-04.39.41:900][  0]LogFileCache: Scanning file cache for directory 'D:/ART/Game/FA24-KolbB-SchmitzW/HW2/HW2/Saved/Collections/' took 0.00s
+[2024.12.06-04.39.41:900][  0]LogFileCache: Scanning file cache for directory 'D:/ART/Game/FA24-KolbB-SchmitzW/HW2/HW2/Content/Developers/Will/Collections/' took 0.00s
+[2024.12.06-04.39.41:900][  0]LogFileCache: Scanning file cache for directory 'D:/ART/Game/FA24-KolbB-SchmitzW/HW2/HW2/Content/Collections/' took 0.00s
+[2024.12.06-04.39.41:900][  0]LogOcInput: OculusInput pre-init called
+[2024.12.06-04.39.42:685][  0]LogEngine: Initializing Engine...
+[2024.12.06-04.39.42:696][  0]LogHMD: Failed to get an OpenXR system, result is XR_ERROR_FORM_FACTOR_UNAVAILABLE. Please check that your runtime supports VR headsets.
+[2024.12.06-04.39.42:698][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2024.12.06-04.39.43:093][  0]LogInit: Initializing FReadOnlyCVARCache
+[2024.12.06-04.39.43:093][  0]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2024.12.06-04.39.43:109][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.12.06-04.39.43:142][  0]LogAIModule: Creating AISystem for world Untitled
+[2024.12.06-04.39.43:143][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2024.12.06-04.39.43:172][  0]LogAudio: Display: Loading Default Audio Settings Objects...
+[2024.12.06-04.39.43:173][  0]LogAudio: Display: No default SoundConcurrencyObject specified (or failed to load).
+[2024.12.06-04.39.43:173][  0]LogAudio: Display: Registering Engine Module Parameter Interfaces...
+[2024.12.06-04.39.43:173][  0]LogAudio: Display: Audio Device Manager Initialized
+[2024.12.06-04.39.43:173][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2024.12.06-04.39.43:173][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.12.06-04.39.43:173][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.12.06-04.39.43:173][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.12.06-04.39.43:173][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.12.06-04.39.43:173][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.12.06-04.39.43:173][  0]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.12.06-04.39.43:173][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.12.06-04.39.43:173][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.12.06-04.39.43:174][  0]LogAudio: Display: Audio Spatialization Plugin: Resonance Audio is external send: 1
+[2024.12.06-04.39.43:174][  0]LogAudio: Display: Audio Reverb Plugin: Resonance Audio
+[2024.12.06-04.39.43:174][  0]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.12.06-04.39.43:188][  0]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.12.06-04.39.43:325][  0]LogAudioMixer: Display: Using Audio Hardware Device Headphones (lawnmower Stereo)
+[2024.12.06-04.39.43:325][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.12.06-04.39.43:329][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.12.06-04.39.43:329][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.12.06-04.39.43:332][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=1
+[2024.12.06-04.39.43:332][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2024.12.06-04.39.43:334][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2024.12.06-04.39.43:334][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=1
+[2024.12.06-04.39.43:334][  0]LogInit: FAudioDevice initialized.
+[2024.12.06-04.39.43:334][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2024.12.06-04.39.43:335][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2024.12.06-04.39.43:335][  0]LogInit: Texture streaming: Enabled
+[2024.12.06-04.39.43:380][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 5.0.3-20979098+++UE5+Release-5.0
+[2024.12.06-04.39.43:394][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2024.12.06-04.39.43:423][  0]LogCsvProfiler: Display: Metadata set : largeworldcoordinates="1"
+[2024.12.06-04.39.43:434][  0]LogLiveCoding: Display: Starting LiveCoding
+[2024.12.06-04.39.43:434][  0]LogLiveCoding: Display: LiveCodingConsole Arguments: UnrealEditor Win64 Development
+[2024.12.06-04.39.47:921][  0]LogLiveCoding: Display: First instance in process group "UE_HW2_0x427a537e", spawning console
+[2024.12.06-04.39.47:921][  0]LogLiveCoding: Display: Waiting for server
+[2024.12.06-04.39.47:921][  0]LogLiveCoding: Display: Successfully initialized, removing startup thread
+[2024.12.06-04.39.47:976][  0]LogInit: Transaction tracking system initialized
+[2024.12.06-04.39.48:072][  0]BlueprintLog: New page: Editor Load
+[2024.12.06-04.39.48:322][  0]LocalizationService: Localization service is disabled
+[2024.12.06-04.39.48:382][  0]TimingProfiler: Initialize
+[2024.12.06-04.39.48:382][  0]TimingProfiler: OnSessionChanged
+[2024.12.06-04.39.48:382][  0]LoadingProfiler: Initialize
+[2024.12.06-04.39.48:382][  0]LoadingProfiler: OnSessionChanged
+[2024.12.06-04.39.48:382][  0]NetworkingProfiler: Initialize
+[2024.12.06-04.39.48:382][  0]NetworkingProfiler: OnSessionChanged
+[2024.12.06-04.39.48:382][  0]MemoryProfiler: Initialize
+[2024.12.06-04.39.48:382][  0]MemoryProfiler: OnSessionChanged
+[2024.12.06-04.39.49:288][  0]LogFileCache: Scanning file cache for directory 'D:/ART/Game/FA24-KolbB-SchmitzW/HW2/HW2/Content/' took 0.01s
+[2024.12.06-04.39.49:289][  0]LogLevelSequenceEditor: LevelSequenceEditor subsystem initialized.
+[2024.12.06-04.39.49:424][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2024.12.06-04.39.49:426][  0]SourceControl: Source control is disabled
+[2024.12.06-04.39.49:426][  0]LogUnrealEdMisc: Loading editor; pre map load, took 20.346
+[2024.12.06-04.39.49:426][  0]Cmd: MAP LOAD FILE="../../../../../ART/Game/FA24-KolbB-SchmitzW/HW2/HW2/Content/VRTemplate/Maps/VRTemplateMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2024.12.06-04.39.49:427][  0]LightingResults: New page: Lighting Build
+[2024.12.06-04.39.49:433][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2024.12.06-04.39.49:433][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.06-04.39.49:433][  0]MapCheck: New page: Map Check
+[2024.12.06-04.39.49:433][  0]LightingResults: New page: Lighting Build
+[2024.12.06-04.39.49:446][  0]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.12.06-04.39.49:450][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2024.12.06-04.39.49:976][  0]LogLinker: Warning: [AssetLog] D:\ART\Game\FA24-KolbB-SchmitzW\HW2\HW2\Content\VRTemplate\Maps\VRTemplateMap.umap: Failed to load '/Game/VRTemplate/Maps/VRTemplateMap_BuiltData': Can't find file.
+[2024.12.06-04.39.49:976][  0]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/VRTemplate/Maps/VRTemplateMap_BuiltData'
+[2024.12.06-04.39.50:971][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'VRTemplateMap'.
+[2024.12.06-04.39.50:972][  0]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2024.12.06-04.39.50:972][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.12.06-04.39.50:972][  0]LogAIModule: Creating AISystem for world VRTemplateMap
+[2024.12.06-04.39.50:987][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.12.06-04.39.51:007][  0]LogRenderer: Warning: Deprectaed CVar r.BasePassOutputsVelocity is set to 0. Remove and use r.VelocityOutputPass instead.
+[2024.12.06-04.39.51:007][  0]LogRenderer: Warning: Deprectaed CVar r.VertexDeformationOutputsVelocity is set to 0. Remove and use r.Velocity.EnableVertexDeformation instead.
+[2024.12.06-04.39.51:009][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2024.12.06-04.39.51:010][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.12.06-04.39.51:010][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.12ms to complete.
+[2024.12.06-04.39.51:010][  0]LogFileHelpers: Loading map 'VRTemplateMap' took 1.584
+[2024.12.06-04.39.51:022][  0]LogUnrealEdMisc: Total Editor Startup Time, took 21.942
+[2024.12.06-04.39.51:022][  0]LogShaderCompilers: Display: ================================================
+[2024.12.06-04.39.51:022][  0]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.12.06-04.39.51:022][  0]LogShaderCompilers: Display: Total job queries 0, among them cache hits 0 (0.00%)
+[2024.12.06-04.39.51:022][  0]LogShaderCompilers: Display: Tracking 0 distinct input hashes that result in 0 distinct outputs (0.00%)
+[2024.12.06-04.39.51:022][  0]LogShaderCompilers: Display: RAM used: 0.00 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.00%
+[2024.12.06-04.39.51:022][  0]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.12.06-04.39.51:022][  0]LogShaderCompilers: Display: Shaders Compiled: 0
+[2024.12.06-04.39.51:022][  0]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0.00%)
+[2024.12.06-04.39.51:022][  0]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2024.12.06-04.39.51:022][  0]LogShaderCompilers: Display: ================================================
+[2024.12.06-04.39.51:173][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.06-04.39.51:182][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.06-04.39.51:192][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.06-04.39.51:200][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.06-04.39.51:314][  0]LogPakFile: Display: Mounted Pak file 'D:/unrel5.0.3/UE_5.0/FeaturePacks/StarterContent.upack', mount point: 'root:/'
+[2024.12.06-04.39.51:315][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2024.12.06-04.39.51:316][  0]LogPakFile: Display: Mounted Pak file 'D:/unrel5.0.3/UE_5.0/FeaturePacks/TP_FirstPerson.upack', mount point: 'root:/'
+[2024.12.06-04.39.51:316][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2024.12.06-04.39.51:318][  0]LogPakFile: Display: Mounted Pak file 'D:/unrel5.0.3/UE_5.0/FeaturePacks/TP_FirstPersonBP.upack', mount point: 'root:/'
+[2024.12.06-04.39.51:318][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2024.12.06-04.39.51:319][  0]LogPakFile: Display: Mounted Pak file 'D:/unrel5.0.3/UE_5.0/FeaturePacks/TP_HandheldARBP.upack', mount point: 'root:/'
+[2024.12.06-04.39.51:319][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2024.12.06-04.39.51:321][  0]LogPakFile: Display: Mounted Pak file 'D:/unrel5.0.3/UE_5.0/FeaturePacks/TP_ThirdPerson.upack', mount point: 'root:/'
+[2024.12.06-04.39.51:321][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2024.12.06-04.39.51:322][  0]LogPakFile: Display: Mounted Pak file 'D:/unrel5.0.3/UE_5.0/FeaturePacks/TP_ThirdPersonBP.upack', mount point: 'root:/'
+[2024.12.06-04.39.51:322][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2024.12.06-04.39.51:323][  0]LogPakFile: Display: Mounted Pak file 'D:/unrel5.0.3/UE_5.0/FeaturePacks/TP_TopDown.upack', mount point: 'root:/'
+[2024.12.06-04.39.51:323][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2024.12.06-04.39.51:324][  0]LogPakFile: Display: Mounted Pak file 'D:/unrel5.0.3/UE_5.0/FeaturePacks/TP_TopDownBP.upack', mount point: 'root:/'
+[2024.12.06-04.39.51:324][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2024.12.06-04.39.51:325][  0]LogPakFile: Display: Mounted Pak file 'D:/unrel5.0.3/UE_5.0/FeaturePacks/TP_VehicleAdvBP.upack', mount point: 'root:/'
+[2024.12.06-04.39.51:325][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2024.12.06-04.39.51:326][  0]LogPakFile: Display: Mounted Pak file 'D:/unrel5.0.3/UE_5.0/FeaturePacks/TP_VirtualRealityBP.upack', mount point: 'root:/'
+[2024.12.06-04.39.51:326][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2024.12.06-04.39.51:327][  0]LogFeaturePack: Error: Error in Feature pack D:/unrel5.0.3/UE_5.0/FeaturePacks/TP_VirtualRealityBP.upack. Failed to parse manifest: Invalid Json Token. Line: 43 Ch: 4
+[2024.12.06-04.39.51:595][  0]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2024.12.06-04.39.51:758][  0]LogUObjectGlobals: Warning: Failed to find object 'Class None.Physics'
+[2024.12.06-04.39.52:529][  0]LogSlate: Took 0.000324 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2024.12.06-04.39.53:673][  0]LogSlate: Took 0.000362 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2024.12.06-04.39.53:674][  0]LogSlate: Took 0.000211 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2024.12.06-04.39.53:702][  0]LogViewport: Scene viewport resized to 1308x902, mode Windowed.
+[2024.12.06-04.39.54:103][  0]LogStall: Startup...
+[2024.12.06-04.39.54:105][  0]LogStall: Startup complete.
+[2024.12.06-04.39.54:142][  0]LogLoad: (Engine Initialization) Total time: 25.06 seconds
+[2024.12.06-04.39.54:142][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2024.12.06-04.39.54:188][  0]LogAssetRegistry: Asset discovery search completed in 17.6466 seconds
+[2024.12.06-04.39.54:207][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000003 seconds (updated 0 objects)
+[2024.12.06-04.39.54:240][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2024.12.06-04.39.54:305][  0]LogSlate: Took 0.000200 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2024.12.06-04.39.54:449][  1]LogNiagara: Compiling System NiagaraSystem /Game/VRTemplate/VFX/NS_MenuLaser.NS_MenuLaser took 3.662926 sec, no shader worker used.
+[2024.12.06-04.39.54:457][  1]LogNiagara: Compiling System NiagaraSystem /Game/VRTemplate/VFX/NS_PlayAreaBounds.NS_PlayAreaBounds took 3.624338 sec, no shader worker used.
+[2024.12.06-04.39.54:475][  1]LogResonanceAudio: Display: Resonance Audio Listener is initialized
+[2024.12.06-04.39.54:688][  1]LogSlate: Took 0.000785 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2024.12.06-04.39.54:769][  2]LogNiagara: Compiling System NiagaraSystem /Game/VRTemplate/VFX/NS_TeleportRing.NS_TeleportRing took 3.897793 sec, no shader worker used.
+[2024.12.06-04.39.54:783][  2]LogNiagara: Compiling System NiagaraSystem /Game/VRTemplate/VFX/NS_TeleportTrace.NS_TeleportTrace took 3.850142 sec, no shader worker used.
+[2024.12.06-04.39.54:786][  2]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2024.12.06-04.40.00:921][539]LogSlate: Took 0.000376 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2024.12.06-04.40.00:928][539]LogSlate: Took 0.000336 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2024.12.06-04.40.04:163][831]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2024.12.06-04.40.04:236][831]LogLinker: Warning: [AssetLog] D:\ART\Game\FA24-KolbB-SchmitzW\HW2\HW2\Content\LevelOne.umap: Failed to load '/Game/LevelOne_BuiltData': Can't find file.
+[2024.12.06-04.40.04:236][831]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/LevelOne_BuiltData'
+[2024.12.06-04.40.04:287][831]LogMaterial: Display: Missing cached shadermap for InMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: 8A6C15522AB61F5E299E78BE3CF85C8E4B8C005A), compiling. 
+[2024.12.06-04.40.04:446][831]LogMaterial: Display: Missing cached shadermap for VivePreControllerMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: E24F6D6B9E6778B8AE5A0A8EF6CF8BE4ABBAC2AA), compiling. 
+[2024.12.06-04.40.04:488][831]LogMaterial: Display: Missing cached shadermap for KeyDiskMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: 2E916FDD19DF7C4AB6AC9DDDA7B2A80D3DA3656A), compiling. 
+[2024.12.06-04.40.04:509][831]LogMaterial: Display: Missing cached shadermap for KeyMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: EDF92F3B69DA977ED03B03AFE0A74252E6963D3E), compiling. 
+[2024.12.06-04.40.04:550][831]LogMaterial: Display: Missing cached shadermap for M_Metal_Burnished_Steel in PCD3D_SM5, Default, SM5 (DDC key hash: 05E74E416A470EED7411FBECCBB8462397340396), compiling. 
+[2024.12.06-04.40.04:634][831]LogMaterial: Display: Missing cached shadermap for LaserPointerMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: B7B92A7040EE79A70B4659E27100119E5E1BF91F), compiling. 
+[2024.12.06-04.40.04:662][831]LogMaterial: Display: Missing cached shadermap for TranslucentLaserPointerMaterialInst in PCD3D_SM5, Default, SM5 (DDC key hash: 06D30EF8A1754250B233673305A6F43779FCEF15), compiling. 
+[2024.12.06-04.40.04:763][831]LogStaticMesh: StaticMesh /Game/StarterContent/Architecture/Wall_500x500.Wall_500x500 should be resaved to improve async compilation performance.
+[2024.12.06-04.40.04:769][831]LogMaterial: Display: Missing cached shadermap for M_Chair in PCD3D_SM5, Default, SM5 (DDC key hash: 629055BA1E878282C98F01A8939F9CDB6F792FC4), compiling. 
+[2024.12.06-04.40.04:822][831]LogStaticMesh: StaticMesh /Game/StarterContent/Props/SM_Chair.SM_Chair should be resaved to improve async compilation performance.
+[2024.12.06-04.40.04:828][831]LogMaterial: Display: Missing cached shadermap for M_TableRound in PCD3D_SM5, Default, SM5 (DDC key hash: A3A6BCA89F830558B4F4680B042F066ADFE92381), compiling. 
+[2024.12.06-04.40.04:874][831]LogStaticMesh: StaticMesh /Game/StarterContent/Props/SM_TableRound.SM_TableRound should be resaved to improve async compilation performance.
+[2024.12.06-04.40.04:874][831]LogStaticMesh: StaticMesh /Game/StarterContent/Shapes/Shape_Cube.Shape_Cube should be resaved to improve async compilation performance.
+[2024.12.06-04.40.04:876][831]LogStaticMesh: StaticMesh /Game/StarterContent/Shapes/Shape_Torus.Shape_Torus should be resaved to improve async compilation performance.
+[2024.12.06-04.40.04:894][831]LogAssetEditorSubsystem: Opening Asset editor for World /Game/LevelOne.LevelOne
+[2024.12.06-04.40.04:894][831]Cmd: MAP LOAD FILE="../../../../../ART/Game/FA24-KolbB-SchmitzW/HW2/HW2/Content/LevelOne.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2024.12.06-04.40.04:894][831]LightingResults: New page: Lighting Build
+[2024.12.06-04.40.04:894][831]LoadErrors: New page: Loading map: LevelOne.umap
+[2024.12.06-04.40.04:896][831]LogWorld: UWorld::CleanupWorld for VRTemplateMap, bSessionEnded=true, bCleanupResources=true
+[2024.12.06-04.40.04:897][831]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.06-04.40.04:897][831]MapCheck: New page: Map Check
+[2024.12.06-04.40.04:897][831]LightingResults: New page: Lighting Build
+[2024.12.06-04.40.04:911][831]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.12.06-04.40.04:915][831]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2024.12.06-04.40.30:673][831]LogStall: Stall detector 'UAssetEditorSubsystem::OpenEditorForAsset' exceeded budget of 2.000000s, reporting...
+[2024.12.06-04.40.30:673][831]LogStall: Stall detector 'UAssetEditorSubsystem::OpenEditorForAsset' report submitted, and took 0.049666s
+[2024.12.06-04.40.41:304][831]LogStall: Stall detector 'FShaderCompilingManager::BlockOnAllShaderMapCompletion' exceeded budget of 2.000000s, reporting...
+[2024.12.06-04.40.41:304][831]LogStall: Stall detector 'FShaderCompilingManager::BlockOnAllShaderMapCompletion' report submitted, and took 0.049981s
+[2024.12.06-04.41.35:131][831]LogDerivedDataCache: C:/Users/Will/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.403 and deleted 0 file(s) with total size 0 MiB.
+[2024.12.06-04.42.44:180][831]LogShaderCompilers: Display: Worker (1/3) finished batch of 10 jobs in 62.978s, TBasePassPSFCachedPointIndirectLightingPolicySkylight [WorkerTime=7.506s], TBasePassPSTDistanceFieldShadowsAndLightMapPolicyHQ [WorkerTime=7.348s], TBasePassPSFPrecomputedVolumetricLightmapLightingPolicy [WorkerTime=7.074s], TBasePassPSTLightMapPolicyHQ [WorkerTime=7.062s], TBasePassPSFCachedVolumeIndirectLightingPolicy [WorkerTime=6.929s], TBasePassPSTLightMapPolicyLQSkylight [WorkerTime=6.893s], TBasePassPSFCachedPointIndirectLightingPolicy [WorkerTime=6.873s], TBasePassPSFNoLightMapPolicy [WorkerTime=6.403s], TBasePassPSFCachedPointIndirectLightingPolicySkylight [WorkerTime=4.918s], TBasePassVSFPrecomputedVolumetricLightmapLightingPolicy [WorkerTime=1.820s]
+[2024.12.06-04.43.22:930][831]LogStall: Stall detector 'FShaderCompilingManager::BlockOnAllShaderMapCompletion' complete in 0.000020s (161.699539s overbudget)
+[2024.12.06-04.43.22:990][831]LogShaderCompilers: Display: ================================================
+[2024.12.06-04.43.22:990][831]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.12.06-04.43.22:990][831]LogShaderCompilers: Display: Total job queries 155, among them cache hits 0 (0.00%)
+[2024.12.06-04.43.22:990][831]LogShaderCompilers: Display: Tracking 155 distinct input hashes that result in 98 distinct outputs (63.23%)
+[2024.12.06-04.43.22:990][831]LogShaderCompilers: Display: RAM used: 0.50 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.06%
+[2024.12.06-04.43.22:990][831]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.12.06-04.43.22:990][831]LogShaderCompilers: Display: Shaders Compiled: 155
+[2024.12.06-04.43.22:990][831]LogShaderCompilers: Display: Jobs assigned 155, completed 155 (100.00%)
+[2024.12.06-04.43.22:990][831]LogShaderCompilers: Display: Average time worker was idle: 0.00 s
+[2024.12.06-04.43.22:991][831]LogShaderCompilers: Display: Time job spent in pending queue: average 84.07 s, longest 184.76 s
+[2024.12.06-04.43.22:991][831]LogShaderCompilers: Display: Job execution time: average 35.14 s, max 62.98 s
+[2024.12.06-04.43.22:991][831]LogShaderCompilers: Display: Job life time (pending + execution): average 119.21 s, max 198.42
+[2024.12.06-04.43.22:991][831]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 198.48 s
+[2024.12.06-04.43.22:991][831]LogShaderCompilers: Display: Jobs were issued in 19 batches (only local compilation was used), average 8.16 jobs/batch
+[2024.12.06-04.43.22:991][831]LogShaderCompilers: Display: Average processing rate: 0.78 jobs/sec
+[2024.12.06-04.43.22:991][831]LogShaderCompilers: Display: Effective parallelization: 2.82 (times faster than compiling all shaders on one thread). Compare with number of workers: 3
+[2024.12.06-04.43.22:991][831]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.12.06-04.43.22:991][831]LogShaderCompilers: Display:                         TBasePassPSTLightMapPolicyHQSkylight (compiled    3 times, average 7.36 sec, max 7.40 sec, min 7.30 sec)
+[2024.12.06-04.43.22:991][831]LogShaderCompilers: Display:          TBasePassPSTDistanceFieldShadowsAndLightMapPolicyHQ (compiled    3 times, average 7.31 sec, max 7.42 sec, min 7.15 sec)
+[2024.12.06-04.43.22:991][831]LogShaderCompilers: Display:  TBasePassPSTDistanceFieldShadowsAndLightMapPolicyHQSkylight (compiled    3 times, average 7.28 sec, max 7.33 sec, min 7.25 sec)
+[2024.12.06-04.43.22:991][831]LogShaderCompilers: Display:                                 TBasePassPSTLightMapPolicyHQ (compiled    3 times, average 7.17 sec, max 7.27 sec, min 7.06 sec)
+[2024.12.06-04.43.22:991][831]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight (compiled    5 times, average 7.11 sec, max 8.73 sec, min 4.92 sec)
+[2024.12.06-04.43.22:991][831]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.12.06-04.43.22:991][831]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 7.62% of total time (compiled   11 times, average 3.89 sec, max 7.84 sec, min 1.42 sec)
+[2024.12.06-04.43.22:991][831]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight - 7.24% of total time (compiled    9 times, average 4.51 sec, max 7.49 sec, min 1.23 sec)
+[2024.12.06-04.43.22:991][831]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight - 6.34% of total time (compiled    5 times, average 7.11 sec, max 8.73 sec, min 4.92 sec)
+[2024.12.06-04.43.22:991][831]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight - 6.19% of total time (compiled    5 times, average 6.94 sec, max 7.57 sec, min 5.10 sec)
+[2024.12.06-04.43.22:991][831]LogShaderCompilers: Display:      TBasePassPSFPrecomputedVolumetricLightmapLightingPolicy - 6.09% of total time (compiled    5 times, average 6.83 sec, max 8.50 sec, min 4.59 sec)
+[2024.12.06-04.43.22:991][831]LogShaderCompilers: Display: ================================================
+[2024.12.06-04.43.23:873][831]LogWorld: UWorld::CleanupWorld for LevelOne, bSessionEnded=true, bCleanupResources=true
+[2024.12.06-04.43.23:874][831]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.06-04.43.23:886][831]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2024.12.06-04.43.23:900][831]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2024.12.06-04.43.23:908][831]LogAudio: Display: Audio Device (ID: 1) registered with world 'LevelOne'.
+[2024.12.06-04.43.23:908][831]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2024.12.06-04.43.23:908][831]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.12.06-04.43.23:908][831]LogAIModule: Creating AISystem for world LevelOne
+[2024.12.06-04.43.23:957][831]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.12.06-04.43.23:972][831]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2024.12.06-04.43.23:981][831]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.12.06-04.43.23:981][831]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.106ms to complete.
+[2024.12.06-04.43.23:981][831]LogFileHelpers: Loading map 'LevelOne' took 199.087
+[2024.12.06-04.43.23:991][831]LogStall: Stall detector 'UAssetEditorSubsystem::OpenEditorForAsset' complete in 0.004056s (162.783544s overbudget)
+[2024.12.06-04.43.46:665][698]LogContentBrowser: Deferred new asset file creation: NewWorld
+[2024.12.06-04.43.46:734][698]LogContentBrowser: Creating deferred item: NewWorld
+[2024.12.06-04.43.46:746][699]LogContentBrowser: Renaming the item being created (Deferred Item: NewWorld).
+[2024.12.06-04.43.48:113][862]LogContentBrowser: Attempting asset rename: NewWorld -> NewWorld
+[2024.12.06-04.43.48:114][862]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.12.06-04.43.48:117][862]LogContentBrowser: End creating deferred item NewWorld
+[2024.12.06-04.43.51:195][220]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2024.12.06-04.43.54:633][220]LogSlate: Window 'Save Content' being destroyed
+[2024.12.06-04.43.54:723][220]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewWorld" FILE="../../../../../ART/Game/FA24-KolbB-SchmitzW/HW2/HW2/Content/NewWorld.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.12.06-04.43.54:734][220]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2024.12.06-04.43.54:740][220]LogPackageLocalizationCache: Processed 29 localized package path(s) for 1 prioritized culture(s) in 0.005935 seconds
+[2024.12.06-04.43.54:742][220]LogSavePackage: Moving output files for package: /Game/NewWorld
+[2024.12.06-04.43.54:743][220]LogSavePackage: Moving '../../../../../ART/Game/FA24-KolbB-SchmitzW/HW2/HW2/Saved/NewWorldC733CFCB41BF1115F31107B5F30A6107.tmp' to '../../../../../ART/Game/FA24-KolbB-SchmitzW/HW2/HW2/Content/NewWorld.umap'
+[2024.12.06-04.43.54:745][220]LogFileHelpers: Saving map 'NewWorld' took 0.023
+[2024.12.06-04.43.54:754][220]LogAssetEditorSubsystem: Opening Asset editor for World /Game/NewWorld.NewWorld
+[2024.12.06-04.43.54:754][220]Cmd: MAP LOAD FILE="../../../../../ART/Game/FA24-KolbB-SchmitzW/HW2/HW2/Content/NewWorld.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2024.12.06-04.43.54:754][220]LightingResults: New page: Lighting Build
+[2024.12.06-04.43.54:754][220]LoadErrors: New page: Loading map: NewWorld.umap
+[2024.12.06-04.43.54:777][220]LogWorld: UWorld::CleanupWorld for LevelOne, bSessionEnded=true, bCleanupResources=true
+[2024.12.06-04.43.54:777][220]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.06-04.43.54:777][220]MapCheck: New page: Map Check
+[2024.12.06-04.43.54:777][220]LightingResults: New page: Lighting Build
+[2024.12.06-04.43.54:786][220]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.12.06-04.43.54:789][220]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2024.12.06-04.43.54:790][220]LogWorld: UWorld::CleanupWorld for NewWorld, bSessionEnded=true, bCleanupResources=true
+[2024.12.06-04.43.54:791][220]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.06-04.43.54:801][220]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2024.12.06-04.43.54:813][220]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2024.12.06-04.43.54:815][220]LogAudio: Display: Audio Device (ID: 1) registered with world 'NewWorld'.
+[2024.12.06-04.43.54:815][220]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2024.12.06-04.43.54:816][220]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.12.06-04.43.54:816][220]LogAIModule: Creating AISystem for world NewWorld
+[2024.12.06-04.43.54:835][220]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.12.06-04.43.54:847][220]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2024.12.06-04.43.54:856][220]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.12.06-04.43.54:856][220]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.117ms to complete.
+[2024.12.06-04.43.54:856][220]LogFileHelpers: Loading map 'NewWorld' took 0.102
+[2024.12.06-04.43.54:871][220]AssetCheck: New page: Asset Save: NewWorld
+[2024.12.06-04.43.54:871][220]LogContentValidation: Display: Validating World /Game/NewWorld.NewWorld
+[2024.12.06-04.43.58:000][559]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2024.12.06-04.43.58:000][559]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2024.12.06-04.43.58:767][643]LogObjectTools: Deleting 1 worlds: /Game/NewWorld.NewWorld
+[2024.12.06-04.43.58:767][643]LogObjectTools: Currently 2 active worlds: /Game/NewWorld.NewWorld, /Engine/Transient.World_0
+[2024.12.06-04.43.59:873][643]LogSlate: Window 'Unable to delete level' being destroyed
+[2024.12.06-04.43.59:880][643]Message dialog closed, result: Ok, title: Unable to delete level, text: Unable to delete level while it is open
+[2024.12.06-04.44.06:893][419]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2024.12.06-04.44.06:961][419]LogAssetEditorSubsystem: Opening Asset editor for World /Game/LevelOne.LevelOne
+[2024.12.06-04.44.06:962][419]Cmd: MAP LOAD FILE="../../../../../ART/Game/FA24-KolbB-SchmitzW/HW2/HW2/Content/LevelOne.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2024.12.06-04.44.06:962][419]LightingResults: New page: Lighting Build
+[2024.12.06-04.44.06:962][419]LoadErrors: New page: Loading map: LevelOne.umap
+[2024.12.06-04.44.06:998][419]LogWorld: UWorld::CleanupWorld for NewWorld, bSessionEnded=true, bCleanupResources=true
+[2024.12.06-04.44.06:998][419]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.06-04.44.06:998][419]MapCheck: New page: Map Check
+[2024.12.06-04.44.06:998][419]LightingResults: New page: Lighting Build
+[2024.12.06-04.44.07:008][419]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.12.06-04.44.07:009][419]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2024.12.06-04.44.07:012][419]LogWorld: UWorld::CleanupWorld for LevelOne, bSessionEnded=true, bCleanupResources=true
+[2024.12.06-04.44.07:012][419]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.06-04.44.07:023][419]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2024.12.06-04.44.07:033][419]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2024.12.06-04.44.07:040][419]LogAudio: Display: Audio Device (ID: 1) registered with world 'LevelOne'.
+[2024.12.06-04.44.07:040][419]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2024.12.06-04.44.07:040][419]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.12.06-04.44.07:041][419]LogAIModule: Creating AISystem for world LevelOne
+[2024.12.06-04.44.07:083][419]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.12.06-04.44.07:096][419]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2024.12.06-04.44.07:107][419]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.12.06-04.44.07:107][419]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.14ms to complete.
+[2024.12.06-04.44.07:107][419]LogFileHelpers: Loading map 'LevelOne' took 0.146
+[2024.12.06-04.44.09:732][671]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2024.12.06-04.44.09:733][671]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2024.12.06-04.44.10:665][768]LogObjectTools: Deleting 1 worlds: /Game/NewWorld.NewWorld
+[2024.12.06-04.44.10:665][768]LogObjectTools: Currently 2 active worlds: /Game/LevelOne.LevelOne, /Engine/Transient.World_0
+[2024.12.06-04.44.10:676][768]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2024.12.06-04.44.11:750][768]LogSlate: Window 'Delete Assets' being destroyed
+[2024.12.06-04.44.11:756][768]LogWorld: UWorld::CleanupWorld for NewWorld, bSessionEnded=true, bCleanupResources=true
+[2024.12.06-04.44.11:756][768]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.06-04.44.11:757][768]LogWorld: Warning: UWorld::CleanupWorld called twice or called without InitWorld called first.
+[2024.12.06-04.44.11:757][768]LogWorld: UWorld::CleanupWorld for NewWorld, bSessionEnded=true, bCleanupResources=true
+[2024.12.06-04.44.11:757][768]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.06-04.44.11:774][768]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2024.12.06-04.44.11:785][768]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2024.12.06-04.44.11:796][768]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2024.12.06-04.44.15:974][204]LogContentBrowser: Deferred new asset file creation: LevelOne1
+[2024.12.06-04.44.15:991][204]LogContentBrowser: Creating deferred item: LevelOne1
+[2024.12.06-04.44.16:002][205]LogContentBrowser: Renaming the item being created (Deferred Item: LevelOne1).
+[2024.12.06-04.44.21:465][844]LogContentBrowser: Attempting asset rename: LevelOne1 -> WinLevel
+[2024.12.06-04.44.21:479][844]LogContentBrowser: End creating deferred item LevelOne1
+[2024.12.06-04.44.23:037][ 25]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2024.12.06-04.44.24:521][ 25]LogSlate: Window 'Save Content' being destroyed
+[2024.12.06-04.44.24:585][ 25]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.12.06-04.44.24:588][ 25]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/WinLevel" FILE="../../../../../ART/Game/FA24-KolbB-SchmitzW/HW2/HW2/Content/WinLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.12.06-04.44.24:599][ 25]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2024.12.06-04.44.24:615][ 25]LogSavePackage: Moving output files for package: /Game/WinLevel
+[2024.12.06-04.44.24:615][ 25]LogSavePackage: Moving '../../../../../ART/Game/FA24-KolbB-SchmitzW/HW2/HW2/Saved/WinLevel9A92E1C24380A2FD8C28E99B66EFD9B7.tmp' to '../../../../../ART/Game/FA24-KolbB-SchmitzW/HW2/HW2/Content/WinLevel.umap'
+[2024.12.06-04.44.24:620][ 25]LogFileHelpers: Saving map 'WinLevel' took 0.036
+[2024.12.06-04.44.24:631][ 25]LogAssetEditorSubsystem: Opening Asset editor for World /Game/WinLevel.WinLevel
+[2024.12.06-04.44.24:631][ 25]Cmd: MAP LOAD FILE="../../../../../ART/Game/FA24-KolbB-SchmitzW/HW2/HW2/Content/WinLevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2024.12.06-04.44.24:631][ 25]LightingResults: New page: Lighting Build
+[2024.12.06-04.44.24:631][ 25]LoadErrors: New page: Loading map: WinLevel.umap
+[2024.12.06-04.44.24:668][ 25]LogWorld: UWorld::CleanupWorld for LevelOne, bSessionEnded=true, bCleanupResources=true
+[2024.12.06-04.44.24:668][ 25]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.06-04.44.24:668][ 25]MapCheck: New page: Map Check
+[2024.12.06-04.44.24:668][ 25]LightingResults: New page: Lighting Build
+[2024.12.06-04.44.24:681][ 25]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.12.06-04.44.24:683][ 25]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2024.12.06-04.44.24:684][ 25]LogWorld: UWorld::CleanupWorld for WinLevel, bSessionEnded=true, bCleanupResources=true
+[2024.12.06-04.44.24:684][ 25]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.06-04.44.24:696][ 25]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2024.12.06-04.44.24:707][ 25]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2024.12.06-04.44.24:715][ 25]LogAudio: Display: Audio Device (ID: 1) registered with world 'WinLevel'.
+[2024.12.06-04.44.24:715][ 25]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2024.12.06-04.44.24:716][ 25]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.12.06-04.44.24:716][ 25]LogAIModule: Creating AISystem for world WinLevel
+[2024.12.06-04.44.24:755][ 25]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.12.06-04.44.24:769][ 25]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2024.12.06-04.44.24:777][ 25]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.12.06-04.44.24:777][ 25]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.099ms to complete.
+[2024.12.06-04.44.24:777][ 25]LogFileHelpers: Loading map 'WinLevel' took 0.146
+[2024.12.06-04.44.24:787][ 25]AssetCheck: New page: Asset Save: WinLevel
+[2024.12.06-04.44.24:787][ 25]LogContentValidation: Display: Validating World /Game/WinLevel.WinLevel
+[2024.12.06-04.44.37:403][400]Cmd: DELETE
+[2024.12.06-04.44.37:403][400]Cmd: ACTOR DELETE
+[2024.12.06-04.44.37:410][400]LogEditorActor: Deleted Actor: Grabbable_SmallCube_C
+[2024.12.06-04.44.37:421][400]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2024.12.06-04.44.37:424][400]LogEditorActor: Deleted 1 Actors (0.019 secs)
+[2024.12.06-04.44.38:052][449]Cmd: DELETE
+[2024.12.06-04.44.38:052][449]Cmd: ACTOR DELETE
+[2024.12.06-04.44.38:054][449]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.12.06-04.44.38:064][449]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2024.12.06-04.44.38:066][449]LogEditorActor: Deleted 1 Actors (0.014 secs)
+[2024.12.06-04.44.38:084][450]LogNavigationDataBuild: Navigation data generation finished in /Game/WinLevel.
+[2024.12.06-04.44.39:013][549]Cmd: DELETE
+[2024.12.06-04.44.39:014][549]Cmd: ACTOR DELETE
+[2024.12.06-04.44.39:016][549]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.12.06-04.44.39:026][549]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2024.12.06-04.44.39:029][549]LogEditorActor: Deleted 1 Actors (0.015 secs)
+[2024.12.06-04.44.39:068][550]LogNavigationDataBuild: Navigation data generation finished in /Game/WinLevel.
+[2024.12.06-04.44.39:434][582]Cmd: DELETE
+[2024.12.06-04.44.39:434][582]Cmd: ACTOR DELETE
+[2024.12.06-04.44.39:436][582]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.12.06-04.44.39:447][582]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2024.12.06-04.44.39:449][582]LogEditorActor: Deleted 1 Actors (0.015 secs)
+[2024.12.06-04.44.39:490][583]LogNavigationDataBuild: Navigation data generation finished in /Game/WinLevel.
+[2024.12.06-04.44.39:985][630]Cmd: DELETE
+[2024.12.06-04.44.39:985][630]Cmd: ACTOR DELETE
+[2024.12.06-04.44.39:987][630]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.12.06-04.44.39:997][630]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2024.12.06-04.44.39:999][630]LogEditorActor: Deleted 1 Actors (0.014 secs)
+[2024.12.06-04.44.40:040][631]LogNavigationDataBuild: Navigation data generation finished in /Game/WinLevel.
+[2024.12.06-04.44.41:399][769]Cmd: DELETE
+[2024.12.06-04.44.41:399][769]Cmd: ACTOR DELETE
+[2024.12.06-04.44.41:401][769]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.12.06-04.44.41:412][769]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2024.12.06-04.44.41:414][769]LogEditorActor: Deleted 1 Actors (0.015 secs)
+[2024.12.06-04.44.41:455][770]LogNavigationDataBuild: Navigation data generation finished in /Game/WinLevel.
+[2024.12.06-04.44.41:949][817]Cmd: DELETE
+[2024.12.06-04.44.41:949][817]Cmd: ACTOR DELETE
+[2024.12.06-04.44.41:951][817]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.12.06-04.44.41:962][817]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2024.12.06-04.44.41:964][817]LogEditorActor: Deleted 1 Actors (0.015 secs)
+[2024.12.06-04.44.42:707][844]LogNavigationDataBuild: Navigation data generation finished in /Game/WinLevel.
+[2024.12.06-04.44.43:361][922]Cmd: TRANSACTION UNDO
+[2024.12.06-04.44.43:361][922]LogEditorTransaction: Undo Delete Elements
+[2024.12.06-04.44.44:167][954]LogNavigationDataBuild: Navigation data generation finished in /Game/WinLevel.
+[2024.12.06-04.44.47:013][212]Cmd: DELETE
+[2024.12.06-04.44.47:013][212]Cmd: ACTOR DELETE
+[2024.12.06-04.44.47:015][212]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.12.06-04.44.47:027][212]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2024.12.06-04.44.47:029][212]LogEditorActor: Deleted 1 Actors (0.016 secs)
+[2024.12.06-04.44.47:048][213]LogNavigationDataBuild: Navigation data generation finished in /Game/WinLevel.
+[2024.12.06-04.44.48:172][336]Cmd: DELETE
+[2024.12.06-04.44.48:172][336]Cmd: ACTOR DELETE
+[2024.12.06-04.44.48:175][336]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.12.06-04.44.48:185][336]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2024.12.06-04.44.48:188][336]LogEditorActor: Deleted 1 Actors (0.015 secs)
+[2024.12.06-04.44.48:231][337]LogNavigationDataBuild: Navigation data generation finished in /Game/WinLevel.
+[2024.12.06-04.44.48:801][393]Cmd: DELETE
+[2024.12.06-04.44.48:801][393]Cmd: ACTOR DELETE
+[2024.12.06-04.44.48:803][393]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.12.06-04.44.48:814][393]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2024.12.06-04.44.48:816][393]LogEditorActor: Deleted 1 Actors (0.015 secs)
+[2024.12.06-04.44.48:833][394]LogNavigationDataBuild: Navigation data generation finished in /Game/WinLevel.
+[2024.12.06-04.44.49:321][443]Cmd: DELETE
+[2024.12.06-04.44.49:322][443]Cmd: ACTOR DELETE
+[2024.12.06-04.44.49:324][443]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.12.06-04.44.49:335][443]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2024.12.06-04.44.49:337][443]LogEditorActor: Deleted 1 Actors (0.015 secs)
+[2024.12.06-04.44.49:370][444]LogNavigationDataBuild: Navigation data generation finished in /Game/WinLevel.
+[2024.12.06-04.44.50:587][567]Cmd: DELETE
+[2024.12.06-04.44.50:587][567]Cmd: ACTOR DELETE
+[2024.12.06-04.44.50:588][567]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.12.06-04.44.50:598][567]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2024.12.06-04.44.50:600][567]LogEditorActor: Deleted 1 Actors (0.014 secs)
+[2024.12.06-04.44.50:627][569]LogNavigationDataBuild: Navigation data generation finished in /Game/WinLevel.
+[2024.12.06-04.45.00:325][586]LogNavigationDataBuild: Navigation data generation finished in /Game/WinLevel.
+[2024.12.06-04.45.00:562][613]LogNavigationDataBuild: Navigation data generation finished in /Game/WinLevel.
+[2024.12.06-04.45.01:253][692]LogNavigationDataBuild: Navigation data generation finished in /Game/WinLevel.
+[2024.12.06-04.45.06:474][281]LogNavigationDataBuild: Navigation data generation finished in /Game/WinLevel.
+[2024.12.06-04.45.17:439][419]LogSlate: Took 0.000311 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2024.12.06-04.45.18:734][429]LogD3D12RHI: Warning: Waited for PSO creation for 100.000000ms
+[2024.12.06-04.45.23:090][747]LogNavigationDataBuild: Navigation data generation finished in /Game/WinLevel.
+[2024.12.06-04.45.24:673][920]Cmd: TRANSACTION UNDO
+[2024.12.06-04.45.24:673][920]LogEditorTransaction: Undo Replace component used material
+[2024.12.06-04.45.25:304][927]LogNavigationDataBuild: Navigation data generation finished in /Game/WinLevel.
+[2024.12.06-04.45.32:199][626]LogNavigationDataBuild: Navigation data generation finished in /Game/WinLevel.
+[2024.12.06-04.45.39:833][397]LogNavigationDataBuild: Navigation data generation finished in /Game/WinLevel.
+[2024.12.06-04.45.50:553][448]LogNavigationDataBuild: Navigation data generation finished in /Game/WinLevel.
+[2024.12.06-04.45.55:327][866]LogNavigationDataBuild: Navigation data generation finished in /Game/WinLevel.
+[2024.12.06-04.46.23:512][829]LogNavigationDataBuild: Navigation data generation finished in /Game/WinLevel.
+[2024.12.06-04.46.41:090][881]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/WinLevel" FILE="../../../../../ART/Game/FA24-KolbB-SchmitzW/HW2/HW2/Content/WinLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.12.06-04.46.41:101][881]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2024.12.06-04.46.41:115][881]LogSavePackage: Moving output files for package: /Game/WinLevel
+[2024.12.06-04.46.41:116][881]LogSavePackage: Moving '../../../../../ART/Game/FA24-KolbB-SchmitzW/HW2/HW2/Saved/WinLevelA29BED9F4E3F0683286C868D114CB5AD.tmp' to '../../../../../ART/Game/FA24-KolbB-SchmitzW/HW2/HW2/Content/WinLevel.umap'
+[2024.12.06-04.46.41:140][881]AssetCheck: New page: Asset Save: WinLevel
+[2024.12.06-04.46.41:140][881]LogContentValidation: Display: Validating World /Game/WinLevel.WinLevel
+[2024.12.06-04.47.40:893][565]LogViewport: Scene viewport resized to 1002x902, mode Windowed.
+[2024.12.06-04.47.51:098][722]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.TextRenderActor
+[2024.12.06-04.47.51:098][722]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.TextRenderActor
+[2024.12.06-04.47.51:100][722]LogActorFactory: Actor Factory spawned Class /Script/Engine.TextRenderActor as actor: TextRenderActor /Game/WinLevel.WinLevel:PersistentLevel.TextRenderActor_0
+[2024.12.06-04.47.51:100][722]LogActorFactory: Actor Factory spawned Class /Script/Engine.TextRenderActor as actor: TextRenderActor /Game/WinLevel.WinLevel:PersistentLevel.TextRenderActor_0
+[2024.12.06-04.47.52:522][867]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.TextRenderActor
+[2024.12.06-04.47.52:522][867]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.TextRenderActor
+[2024.12.06-04.47.52:523][867]LogActorFactory: Actor Factory spawned Class /Script/Engine.TextRenderActor as actor: TextRenderActor /Game/WinLevel.WinLevel:PersistentLevel.TextRenderActor_1
+[2024.12.06-04.47.52:523][867]LogActorFactory: Actor Factory spawned Class /Script/Engine.TextRenderActor as actor: TextRenderActor /Game/WinLevel.WinLevel:PersistentLevel.TextRenderActor_1
+[2024.12.06-04.48.13:474][228]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/WinLevel" FILE="../../../../../ART/Game/FA24-KolbB-SchmitzW/HW2/HW2/Content/WinLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.12.06-04.48.13:501][228]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2024.12.06-04.48.13:514][228]LogSavePackage: Moving output files for package: /Game/WinLevel
+[2024.12.06-04.48.13:515][228]LogSavePackage: Moving '../../../../../ART/Game/FA24-KolbB-SchmitzW/HW2/HW2/Saved/WinLevel51C2D39E4D0EB7BBCA1ACFA01E206C54.tmp' to '../../../../../ART/Game/FA24-KolbB-SchmitzW/HW2/HW2/Content/WinLevel.umap'
+[2024.12.06-04.48.13:538][228]AssetCheck: New page: Asset Save: WinLevel
+[2024.12.06-04.48.13:538][228]LogContentValidation: Display: Validating World /Game/WinLevel.WinLevel
+[2024.12.06-04.48.49:774][ 75]Cmd: EDIT COPY
+[2024.12.06-04.48.49:964][ 97]Cmd: EDIT PASTE
+[2024.12.06-04.49.02:227][477]Cmd: EDIT COPY
+[2024.12.06-04.49.02:426][499]Cmd: EDIT PASTE
+[2024.12.06-04.49.12:742][656]Cmd: EDIT COPY
+[2024.12.06-04.49.12:951][677]Cmd: EDIT PASTE
+[2024.12.06-04.49.42:159][901]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/WinLevel" FILE="../../../../../ART/Game/FA24-KolbB-SchmitzW/HW2/HW2/Content/WinLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.12.06-04.49.42:174][901]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2024.12.06-04.49.42:188][901]LogSavePackage: Moving output files for package: /Game/WinLevel
+[2024.12.06-04.49.42:189][901]LogSavePackage: Moving '../../../../../ART/Game/FA24-KolbB-SchmitzW/HW2/HW2/Saved/WinLevel356CEE434AD6EFC104DA83A0F8B56B02.tmp' to '../../../../../ART/Game/FA24-KolbB-SchmitzW/HW2/HW2/Content/WinLevel.umap'
+[2024.12.06-04.49.42:211][901]AssetCheck: New page: Asset Save: WinLevel
+[2024.12.06-04.49.42:212][901]LogContentValidation: Display: Validating World /Game/WinLevel.WinLevel
+[2024.12.06-04.49.53:776][165]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/WinLevel" FILE="../../../../../ART/Game/FA24-KolbB-SchmitzW/HW2/HW2/Content/WinLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.12.06-04.49.53:788][165]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2024.12.06-04.49.53:802][165]LogSavePackage: Moving output files for package: /Game/WinLevel
+[2024.12.06-04.49.53:803][165]LogSavePackage: Moving '../../../../../ART/Game/FA24-KolbB-SchmitzW/HW2/HW2/Saved/WinLevelC6662641473D394D7D3184819D3D135F.tmp' to '../../../../../ART/Game/FA24-KolbB-SchmitzW/HW2/HW2/Content/WinLevel.umap'
+[2024.12.06-04.49.53:827][165]AssetCheck: New page: Asset Save: WinLevel
+[2024.12.06-04.49.53:827][165]LogContentValidation: Display: Validating World /Game/WinLevel.WinLevel
+[2024.12.06-04.52.14:150][504]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterContent/Shapes/Shape_Torus.Shape_Torus
+[2024.12.06-04.52.14:153][504]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterContent/Shapes/Shape_Torus.Shape_Torus
+[2024.12.06-04.52.14:153][504]LogActorFactory: Actor Factory spawned StaticMesh /Game/StarterContent/Shapes/Shape_Torus.Shape_Torus as actor: StaticMeshActor /Game/WinLevel.WinLevel:PersistentLevel.StaticMeshActor_0
+[2024.12.06-04.52.19:173][  8]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterContent/Shapes/Shape_Torus.Shape_Torus
+[2024.12.06-04.52.19:173][  8]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterContent/Shapes/Shape_Torus.Shape_Torus
+[2024.12.06-04.52.19:174][  8]LogActorFactory: Actor Factory spawned StaticMesh /Game/StarterContent/Shapes/Shape_Torus.Shape_Torus as actor: StaticMeshActor /Game/WinLevel.WinLevel:PersistentLevel.StaticMeshActor_6
+[2024.12.06-04.52.19:241][  9]LogNavigationDataBuild: Navigation data generation finished in /Game/WinLevel.
+[2024.12.06-04.52.22:658][306]LogNavigationDataBuild: Navigation data generation finished in /Game/WinLevel.
+[2024.12.06-04.52.24:741][449]LogNavigationDataBuild: Navigation data generation finished in /Game/WinLevel.
+[2024.12.06-04.52.27:241][709]LogNavigationDataBuild: Navigation data generation finished in /Game/WinLevel.
+[2024.12.06-04.52.27:278][713]LogNavigationDataBuild: Navigation data generation finished in /Game/WinLevel.
+[2024.12.06-04.52.27:314][717]LogNavigationDataBuild: Navigation data generation finished in /Game/WinLevel.
+[2024.12.06-04.52.27:408][728]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/WinLevel.WinLevel:PersistentLevel.StaticMeshActor_6.StaticMeshComponent0)
+[2024.12.06-04.52.27:416][729]LogNavigationDataBuild: Navigation data generation finished in /Game/WinLevel.
+[2024.12.06-04.52.27:532][742]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/WinLevel.WinLevel:PersistentLevel.StaticMeshActor_6.StaticMeshComponent0)
+[2024.12.06-04.52.27:550][744]LogNavigationDataBuild: Navigation data generation finished in /Game/WinLevel.
+[2024.12.06-04.52.27:711][762]LogNavigationDataBuild: Navigation data generation finished in /Game/WinLevel.
+[2024.12.06-04.52.27:730][764]LogNavigationDataBuild: Navigation data generation finished in /Game/WinLevel.
+[2024.12.06-04.52.27:906][778]LogNavigationDataBuild: Navigation data generation finished in /Game/WinLevel.
+[2024.12.06-04.52.28:422][788]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/WinLevel.WinLevel:PersistentLevel.StaticMeshActor_6.StaticMeshComponent0)
+[2024.12.06-04.52.28:423][788]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/WinLevel.WinLevel:PersistentLevel.StaticMeshActor_6.StaticMeshComponent0)
+[2024.12.06-04.52.28:709][816]LogNavigationDataBuild: Navigation data generation finished in /Game/WinLevel.
+[2024.12.06-04.52.28:769][822]LogNavigationDataBuild: Navigation data generation finished in /Game/WinLevel.
+[2024.12.06-04.52.28:798][825]LogNavigationDataBuild: Navigation data generation finished in /Game/WinLevel.
+[2024.12.06-04.52.28:818][827]LogNavigationDataBuild: Navigation data generation finished in /Game/WinLevel.
+[2024.12.06-04.52.28:838][829]LogNavigationDataBuild: Navigation data generation finished in /Game/WinLevel.
+[2024.12.06-04.52.28:857][831]LogNavigationDataBuild: Navigation data generation finished in /Game/WinLevel.
+[2024.12.06-04.52.28:886][834]LogNavigationDataBuild: Navigation data generation finished in /Game/WinLevel.
+[2024.12.06-04.52.28:925][838]LogNavigationDataBuild: Navigation data generation finished in /Game/WinLevel.
+[2024.12.06-04.52.28:955][841]LogNavigationDataBuild: Navigation data generation finished in /Game/WinLevel.
+[2024.12.06-04.52.28:982][844]LogNavigationDataBuild: Navigation data generation finished in /Game/WinLevel.
+[2024.12.06-04.52.29:001][846]LogNavigationDataBuild: Navigation data generation finished in /Game/WinLevel.
+[2024.12.06-04.52.29:548][902]LogNavigationDataBuild: Navigation data generation finished in /Game/WinLevel.
+[2024.12.06-04.52.29:981][948]LogNavigationDataBuild: Navigation data generation finished in /Game/WinLevel.
+[2024.12.06-04.52.30:018][952]LogNavigationDataBuild: Navigation data generation finished in /Game/WinLevel.
+[2024.12.06-04.52.30:331][986]LogNavigationDataBuild: Navigation data generation finished in /Game/WinLevel.
+[2024.12.06-04.52.32:540][187]LogNavigationDataBuild: Navigation data generation finished in /Game/WinLevel.
+[2024.12.06-04.52.32:638][189]LogNavigationDataBuild: Navigation data generation finished in /Game/WinLevel.
+[2024.12.06-04.52.32:746][191]LogNavigationDataBuild: Navigation data generation finished in /Game/WinLevel.
+[2024.12.06-04.52.32:977][195]LogNavigationDataBuild: Navigation data generation finished in /Game/WinLevel.
+[2024.12.06-04.52.33:046][198]LogNavigationDataBuild: Navigation data generation finished in /Game/WinLevel.
+[2024.12.06-04.52.33:512][248]LogNavigationDataBuild: Navigation data generation finished in /Game/WinLevel.
+[2024.12.06-04.52.35:644][453]LogNavigationDataBuild: Navigation data generation finished in /Game/WinLevel.
+[2024.12.06-04.52.35:891][481]LogNavigationDataBuild: Navigation data generation finished in /Game/WinLevel.
+[2024.12.06-04.52.36:004][493]LogNavigationDataBuild: Navigation data generation finished in /Game/WinLevel.
+[2024.12.06-04.52.36:093][503]LogNavigationDataBuild: Navigation data generation finished in /Game/WinLevel.
+[2024.12.06-04.52.36:529][551]LogNavigationDataBuild: Navigation data generation finished in /Game/WinLevel.
+[2024.12.06-04.52.39:984][940]Cmd: DUPLICATE
+[2024.12.06-04.52.39:984][940]Cmd: ACTOR DUPLICATE
+[2024.12.06-04.52.40:113][943]LogNavigationDataBuild: Navigation data generation finished in /Game/WinLevel.
+[2024.12.06-04.52.41:743][ 69]LogNavigationDataBuild: Navigation data generation finished in /Game/WinLevel.
+[2024.12.06-04.52.42:014][ 97]LogNavigationDataBuild: Navigation data generation finished in /Game/WinLevel.
+[2024.12.06-04.52.42:932][194]LogNavigationDataBuild: Navigation data generation finished in /Game/WinLevel.
+[2024.12.06-04.52.45:322][443]Cmd: DUPLICATE
+[2024.12.06-04.52.45:322][443]Cmd: ACTOR DUPLICATE
+[2024.12.06-04.52.48:381][722]Cmd: DUPLICATE
+[2024.12.06-04.52.48:381][722]Cmd: ACTOR DUPLICATE
+[2024.12.06-04.52.53:146][159]Cmd: DUPLICATE
+[2024.12.06-04.52.53:146][159]Cmd: ACTOR DUPLICATE
+[2024.12.06-04.52.59:779][788]Cmd: DUPLICATE
+[2024.12.06-04.52.59:779][788]Cmd: ACTOR DUPLICATE
+[2024.12.06-04.53.03:878][194]Cmd: DUPLICATE
+[2024.12.06-04.53.03:878][194]Cmd: ACTOR DUPLICATE
+[2024.12.06-04.53.14:897][353]Cmd: DUPLICATE
+[2024.12.06-04.53.14:897][353]Cmd: ACTOR DUPLICATE
+[2024.12.06-04.53.30:804][ 59]LogNavigationDataBuild: Navigation data generation finished in /Game/WinLevel.
+[2024.12.06-04.53.30:860][ 65]LogNavigationDataBuild: Navigation data generation finished in /Game/WinLevel.
+[2024.12.06-04.53.31:297][116]LogNavigationDataBuild: Navigation data generation finished in /Game/WinLevel.
+[2024.12.06-04.53.31:537][142]LogNavigationDataBuild: Navigation data generation finished in /Game/WinLevel.
+[2024.12.06-04.53.57:981][873]LogNavigationDataBuild: Navigation data generation finished in /Game/WinLevel.
+[2024.12.06-04.53.58:019][877]LogNavigationDataBuild: Navigation data generation finished in /Game/WinLevel.
+[2024.12.06-04.53.58:066][882]LogNavigationDataBuild: Navigation data generation finished in /Game/WinLevel.
+[2024.12.06-04.53.58:362][915]LogNavigationDataBuild: Navigation data generation finished in /Game/WinLevel.
+[2024.12.06-04.53.58:399][919]LogNavigationDataBuild: Navigation data generation finished in /Game/WinLevel.
+[2024.12.06-04.53.59:112][944]LogNavigationDataBuild: Navigation data generation finished in /Game/WinLevel.
+[2024.12.06-04.53.59:154][948]LogNavigationDataBuild: Navigation data generation finished in /Game/WinLevel.
+[2024.12.06-04.53.59:203][953]LogNavigationDataBuild: Navigation data generation finished in /Game/WinLevel.
+[2024.12.06-04.53.59:242][957]LogNavigationDataBuild: Navigation data generation finished in /Game/WinLevel.
+[2024.12.06-04.53.59:487][982]LogNavigationDataBuild: Navigation data generation finished in /Game/WinLevel.
+[2024.12.06-04.54.05:695][544]LogNavigationDataBuild: Navigation data generation finished in /Game/WinLevel.
+[2024.12.06-04.54.21:941][136]Cmd: EDIT COPY
+[2024.12.06-04.54.22:160][159]Cmd: EDIT PASTE
+[2024.12.06-04.54.23:531][295]LogNavigationDataBuild: Navigation data generation finished in /Game/WinLevel.
+[2024.12.06-04.54.23:630][304]LogNavigationDataBuild: Navigation data generation finished in /Game/WinLevel.
+[2024.12.06-04.54.24:957][400]LogNavigationDataBuild: Navigation data generation finished in /Game/WinLevel.
+[2024.12.06-04.54.25:038][407]LogNavigationDataBuild: Navigation data generation finished in /Game/WinLevel.
+[2024.12.06-04.54.27:644][640]LogNavigationDataBuild: Navigation data generation finished in /Game/WinLevel.
+[2024.12.06-04.54.28:445][728]LogNavigationDataBuild: Navigation data generation finished in /Game/WinLevel.
+[2024.12.06-04.54.28:485][732]LogNavigationDataBuild: Navigation data generation finished in /Game/WinLevel.
+[2024.12.06-04.54.28:535][737]LogNavigationDataBuild: Navigation data generation finished in /Game/WinLevel.
+[2024.12.06-04.54.28:592][743]LogNavigationDataBuild: Navigation data generation finished in /Game/WinLevel.
+[2024.12.06-04.54.28:652][749]LogNavigationDataBuild: Navigation data generation finished in /Game/WinLevel.
+[2024.12.06-04.54.28:693][753]LogNavigationDataBuild: Navigation data generation finished in /Game/WinLevel.
+[2024.12.06-04.54.28:742][758]LogNavigationDataBuild: Navigation data generation finished in /Game/WinLevel.
+[2024.12.06-04.54.28:798][764]LogNavigationDataBuild: Navigation data generation finished in /Game/WinLevel.
+[2024.12.06-04.54.28:836][768]LogNavigationDataBuild: Navigation data generation finished in /Game/WinLevel.
+[2024.12.06-04.54.28:945][780]LogNavigationDataBuild: Navigation data generation finished in /Game/WinLevel.
+[2024.12.06-04.54.29:459][837]LogNavigationDataBuild: Navigation data generation finished in /Game/WinLevel.
+[2024.12.06-04.54.33:091][145]LogNavigationDataBuild: Navigation data generation finished in /Game/WinLevel.
+[2024.12.06-04.54.33:330][169]LogNavigationDataBuild: Navigation data generation finished in /Game/WinLevel.
+[2024.12.06-04.54.38:091][653]Cmd: DUPLICATE
+[2024.12.06-04.54.38:091][653]Cmd: ACTOR DUPLICATE
+[2024.12.06-04.55.04:732][461]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/WinLevel" FILE="../../../../../ART/Game/FA24-KolbB-SchmitzW/HW2/HW2/Content/WinLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.12.06-04.55.04:744][461]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2024.12.06-04.55.04:761][461]LogSavePackage: Moving output files for package: /Game/WinLevel
+[2024.12.06-04.55.04:762][461]LogSavePackage: Moving '../../../../../ART/Game/FA24-KolbB-SchmitzW/HW2/HW2/Saved/WinLevel386192EA4F23E4527759FE8E9AA53C13.tmp' to '../../../../../ART/Game/FA24-KolbB-SchmitzW/HW2/HW2/Content/WinLevel.umap'
+[2024.12.06-04.55.04:786][461]AssetCheck: New page: Asset Save: WinLevel
+[2024.12.06-04.55.04:786][461]LogContentValidation: Display: Validating World /Game/WinLevel.WinLevel
+[2024.12.06-04.55.12:298][262]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/WinLevel" FILE="../../../../../ART/Game/FA24-KolbB-SchmitzW/HW2/HW2/Content/WinLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.12.06-04.55.12:312][262]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2024.12.06-04.55.12:328][262]LogSavePackage: Moving output files for package: /Game/WinLevel
+[2024.12.06-04.55.12:329][262]LogSavePackage: Moving '../../../../../ART/Game/FA24-KolbB-SchmitzW/HW2/HW2/Saved/WinLevel4FA41B3D4FB29857F40E7CA10EB302FD.tmp' to '../../../../../ART/Game/FA24-KolbB-SchmitzW/HW2/HW2/Content/WinLevel.umap'
+[2024.12.06-04.55.12:359][262]AssetCheck: New page: Asset Save: WinLevel
+[2024.12.06-04.55.12:359][262]LogContentValidation: Display: Validating World /Game/WinLevel.WinLevel
+[2024.12.06-04.55.18:193][762]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2024.12.06-04.55.18:256][762]LogAssetEditorSubsystem: Opening Asset editor for World /Game/LevelOne.LevelOne
+[2024.12.06-04.55.18:257][762]Cmd: MAP LOAD FILE="../../../../../ART/Game/FA24-KolbB-SchmitzW/HW2/HW2/Content/LevelOne.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2024.12.06-04.55.18:257][762]LightingResults: New page: Lighting Build
+[2024.12.06-04.55.18:257][762]LoadErrors: New page: Loading map: LevelOne.umap
+[2024.12.06-04.55.18:259][762]LogWorld: UWorld::CleanupWorld for WinLevel, bSessionEnded=true, bCleanupResources=true
+[2024.12.06-04.55.18:259][762]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.06-04.55.18:259][762]MapCheck: New page: Map Check
+[2024.12.06-04.55.18:259][762]LightingResults: New page: Lighting Build
+[2024.12.06-04.55.18:269][762]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.12.06-04.55.18:272][762]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2024.12.06-04.55.18:274][762]LogWorld: UWorld::CleanupWorld for LevelOne, bSessionEnded=true, bCleanupResources=true
+[2024.12.06-04.55.18:274][762]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.06-04.55.18:286][762]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2024.12.06-04.55.18:296][762]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2024.12.06-04.55.18:305][762]LogAudio: Display: Audio Device (ID: 1) registered with world 'LevelOne'.
+[2024.12.06-04.55.18:305][762]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2024.12.06-04.55.18:305][762]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.12.06-04.55.18:305][762]LogAIModule: Creating AISystem for world LevelOne
+[2024.12.06-04.55.18:344][762]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.12.06-04.55.18:358][762]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2024.12.06-04.55.18:367][762]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.12.06-04.55.18:367][762]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.126ms to complete.
+[2024.12.06-04.55.18:367][762]LogFileHelpers: Loading map 'LevelOne' took 0.112
+[2024.12.06-04.55.46:781][741]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2024.12.06-04.55.46:855][741]LogAssetEditorSubsystem: Opening Asset editor for World /Game/WinLevel.WinLevel
+[2024.12.06-04.55.46:855][741]Cmd: MAP LOAD FILE="../../../../../ART/Game/FA24-KolbB-SchmitzW/HW2/HW2/Content/WinLevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2024.12.06-04.55.46:855][741]LightingResults: New page: Lighting Build
+[2024.12.06-04.55.46:856][741]LoadErrors: New page: Loading map: WinLevel.umap
+[2024.12.06-04.55.46:858][741]LogWorld: UWorld::CleanupWorld for LevelOne, bSessionEnded=true, bCleanupResources=true
+[2024.12.06-04.55.46:858][741]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.06-04.55.46:858][741]MapCheck: New page: Map Check
+[2024.12.06-04.55.46:858][741]LightingResults: New page: Lighting Build
+[2024.12.06-04.55.46:873][741]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.12.06-04.55.46:875][741]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2024.12.06-04.55.46:878][741]LogWorld: UWorld::CleanupWorld for WinLevel, bSessionEnded=true, bCleanupResources=true
+[2024.12.06-04.55.46:878][741]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.06-04.55.46:894][741]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2024.12.06-04.55.46:906][741]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2024.12.06-04.55.46:913][741]LogAudio: Display: Audio Device (ID: 1) registered with world 'WinLevel'.
+[2024.12.06-04.55.46:913][741]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2024.12.06-04.55.46:913][741]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.12.06-04.55.46:913][741]LogAIModule: Creating AISystem for world WinLevel
+[2024.12.06-04.55.46:957][741]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.12.06-04.55.46:972][741]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2024.12.06-04.55.46:981][741]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.12.06-04.55.46:981][741]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.109ms to complete.
+[2024.12.06-04.55.46:981][741]LogFileHelpers: Loading map 'WinLevel' took 0.125
+[2024.12.06-04.56.28:497][535]LogNavigationDataBuild: Navigation data generation finished in /Game/WinLevel.
+[2024.12.06-04.56.45:827][236]LogNavigationDataBuild: Navigation data generation finished in /Game/WinLevel.
+[2024.12.06-04.56.46:966][348]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/WinLevel" FILE="../../../../../ART/Game/FA24-KolbB-SchmitzW/HW2/HW2/Content/WinLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.12.06-04.56.46:976][348]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2024.12.06-04.56.46:994][348]LogSavePackage: Moving output files for package: /Game/WinLevel
+[2024.12.06-04.56.46:995][348]LogSavePackage: Moving '../../../../../ART/Game/FA24-KolbB-SchmitzW/HW2/HW2/Saved/WinLevel4A6B62BB4231902CC94FD58349C52E6F.tmp' to '../../../../../ART/Game/FA24-KolbB-SchmitzW/HW2/HW2/Content/WinLevel.umap'
+[2024.12.06-04.56.47:025][348]AssetCheck: New page: Asset Save: WinLevel
+[2024.12.06-04.56.47:025][348]LogContentValidation: Display: Validating World /Game/WinLevel.WinLevel
+[2024.12.06-04.56.55:477][190]LogNavigationDataBuild: Navigation data generation finished in /Game/WinLevel.
+[2024.12.06-04.56.56:432][283]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/WinLevel" FILE="../../../../../ART/Game/FA24-KolbB-SchmitzW/HW2/HW2/Content/WinLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.12.06-04.56.56:447][283]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2024.12.06-04.56.56:463][283]LogSavePackage: Moving output files for package: /Game/WinLevel
+[2024.12.06-04.56.56:464][283]LogSavePackage: Moving '../../../../../ART/Game/FA24-KolbB-SchmitzW/HW2/HW2/Saved/WinLevelE54972644C4FBA84B6ABC987FF595333.tmp' to '../../../../../ART/Game/FA24-KolbB-SchmitzW/HW2/HW2/Content/WinLevel.umap'
+[2024.12.06-04.56.56:488][283]AssetCheck: New page: Asset Save: WinLevel
+[2024.12.06-04.56.56:488][283]LogContentValidation: Display: Validating World /Game/WinLevel.WinLevel
+[2024.12.06-04.57.03:050][972]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/WinLevel" FILE="../../../../../ART/Game/FA24-KolbB-SchmitzW/HW2/HW2/Content/WinLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.12.06-04.57.03:064][972]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2024.12.06-04.57.03:081][972]LogSavePackage: Moving output files for package: /Game/WinLevel
+[2024.12.06-04.57.03:082][972]LogSavePackage: Moving '../../../../../ART/Game/FA24-KolbB-SchmitzW/HW2/HW2/Saved/WinLevel642B7CB84048AADB049C1EA39C45DD60.tmp' to '../../../../../ART/Game/FA24-KolbB-SchmitzW/HW2/HW2/Content/WinLevel.umap'
+[2024.12.06-04.57.03:103][972]AssetCheck: New page: Asset Save: WinLevel
+[2024.12.06-04.57.03:103][972]LogContentValidation: Display: Validating World /Game/WinLevel.WinLevel
+[2024.12.06-04.57.08:802][508]LogNavigationDataBuild: Navigation data generation finished in /Game/WinLevel.
+[2024.12.06-04.57.29:283][631]LogNavigationDataBuild: Navigation data generation finished in /Game/WinLevel.
+[2024.12.06-04.57.44:211][ 92]LogNavigationDataBuild: Navigation data generation finished in /Game/WinLevel.
+[2024.12.06-04.57.54:774][ 79]LogNavigationDataBuild: Navigation data generation finished in /Game/WinLevel.
+[2024.12.06-04.58.00:144][594]LogNavigationDataBuild: Navigation data generation finished in /Game/WinLevel.
+[2024.12.06-04.58.04:066][973]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/WinLevel" FILE="../../../../../ART/Game/FA24-KolbB-SchmitzW/HW2/HW2/Content/WinLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.12.06-04.58.04:078][973]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2024.12.06-04.58.04:095][973]LogSavePackage: Moving output files for package: /Game/WinLevel
+[2024.12.06-04.58.04:096][973]LogSavePackage: Moving '../../../../../ART/Game/FA24-KolbB-SchmitzW/HW2/HW2/Saved/WinLevel145FFA4F46B0C082AC848F8E6530FA3B.tmp' to '../../../../../ART/Game/FA24-KolbB-SchmitzW/HW2/HW2/Content/WinLevel.umap'
+[2024.12.06-04.58.04:120][973]AssetCheck: New page: Asset Save: WinLevel
+[2024.12.06-04.58.04:120][973]LogContentValidation: Display: Validating World /Game/WinLevel.WinLevel
+[2024.12.06-04.58.15:493][168]LogNavigationDataBuild: Navigation data generation finished in /Game/WinLevel.
+[2024.12.06-04.58.17:295][300]LogNavigationDataBuild: Navigation data generation finished in /Game/WinLevel.
+[2024.12.06-04.58.17:690][337]LogNavigationDataBuild: Navigation data generation finished in /Game/WinLevel.
+[2024.12.06-04.58.18:594][440]Cmd: TRANSACTION UNDO
+[2024.12.06-04.58.18:594][440]LogEditorTransaction: Undo Scale Elements
+[2024.12.06-04.58.18:979][447]LogNavigationDataBuild: Navigation data generation finished in /Game/WinLevel.
+[2024.12.06-04.58.20:468][586]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/WinLevel" FILE="../../../../../ART/Game/FA24-KolbB-SchmitzW/HW2/HW2/Content/WinLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.12.06-04.58.20:480][586]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2024.12.06-04.58.20:497][586]LogSavePackage: Moving output files for package: /Game/WinLevel
+[2024.12.06-04.58.20:498][586]LogSavePackage: Moving '../../../../../ART/Game/FA24-KolbB-SchmitzW/HW2/HW2/Saved/WinLevel34E537DA4FED560642BAE4B94072D18F.tmp' to '../../../../../ART/Game/FA24-KolbB-SchmitzW/HW2/HW2/Content/WinLevel.umap'
+[2024.12.06-04.58.20:530][586]AssetCheck: New page: Asset Save: WinLevel
+[2024.12.06-04.58.20:530][586]LogContentValidation: Display: Validating World /Game/WinLevel.WinLevel
+[2024.12.06-04.58.25:448][135]LogNavigationDataBuild: Navigation data generation finished in /Game/WinLevel.
+[2024.12.06-04.58.38:151][398]LogStaticMesh: StaticMesh /Game/StarterContent/Shapes/Shape_Cylinder.Shape_Cylinder should be resaved to improve async compilation performance.
+[2024.12.06-04.58.38:177][399]LogNavigationDataBuild: Navigation data generation finished in /Game/WinLevel.
+[2024.12.06-04.58.39:958][587]LogNavigationDataBuild: Navigation data generation finished in /Game/WinLevel.
+[2024.12.06-04.58.40:123][606]LogNavigationDataBuild: Navigation data generation finished in /Game/WinLevel.
+[2024.12.06-04.58.40:236][619]LogNavigationDataBuild: Navigation data generation finished in /Game/WinLevel.
+[2024.12.06-04.58.40:417][640]LogNavigationDataBuild: Navigation data generation finished in /Game/WinLevel.
+[2024.12.06-04.58.40:461][645]LogNavigationDataBuild: Navigation data generation finished in /Game/WinLevel.
+[2024.12.06-04.58.40:488][648]LogNavigationDataBuild: Navigation data generation finished in /Game/WinLevel.
+[2024.12.06-04.58.40:516][651]LogNavigationDataBuild: Navigation data generation finished in /Game/WinLevel.
+[2024.12.06-04.58.40:543][654]LogNavigationDataBuild: Navigation data generation finished in /Game/WinLevel.
+[2024.12.06-04.58.40:561][656]LogNavigationDataBuild: Navigation data generation finished in /Game/WinLevel.
+[2024.12.06-04.58.40:580][658]LogNavigationDataBuild: Navigation data generation finished in /Game/WinLevel.
+[2024.12.06-04.58.40:599][660]LogNavigationDataBuild: Navigation data generation finished in /Game/WinLevel.
+[2024.12.06-04.58.40:927][698]LogNavigationDataBuild: Navigation data generation finished in /Game/WinLevel.
+[2024.12.06-04.58.40:964][702]LogNavigationDataBuild: Navigation data generation finished in /Game/WinLevel.
+[2024.12.06-04.58.40:991][705]LogNavigationDataBuild: Navigation data generation finished in /Game/WinLevel.
+[2024.12.06-04.58.41:010][707]LogNavigationDataBuild: Navigation data generation finished in /Game/WinLevel.
+[2024.12.06-04.58.41:028][709]LogNavigationDataBuild: Navigation data generation finished in /Game/WinLevel.
+[2024.12.06-04.58.41:047][711]LogNavigationDataBuild: Navigation data generation finished in /Game/WinLevel.
+[2024.12.06-04.58.41:073][714]LogNavigationDataBuild: Navigation data generation finished in /Game/WinLevel.
+[2024.12.06-04.58.41:330][742]LogNavigationDataBuild: Navigation data generation finished in /Game/WinLevel.
+[2024.12.06-04.58.42:032][823]LogNavigationDataBuild: Navigation data generation finished in /Game/WinLevel.
+[2024.12.06-04.58.42:069][827]LogNavigationDataBuild: Navigation data generation finished in /Game/WinLevel.
+[2024.12.06-04.58.42:119][832]LogNavigationDataBuild: Navigation data generation finished in /Game/WinLevel.
+[2024.12.06-04.58.42:190][840]LogNavigationDataBuild: Navigation data generation finished in /Game/WinLevel.
+[2024.12.06-04.58.42:243][846]LogNavigationDataBuild: Navigation data generation finished in /Game/WinLevel.
+[2024.12.06-04.58.42:270][849]LogNavigationDataBuild: Navigation data generation finished in /Game/WinLevel.
+[2024.12.06-04.58.42:296][852]LogNavigationDataBuild: Navigation data generation finished in /Game/WinLevel.
+[2024.12.06-04.58.42:323][855]LogNavigationDataBuild: Navigation data generation finished in /Game/WinLevel.
+[2024.12.06-04.58.42:341][857]LogNavigationDataBuild: Navigation data generation finished in /Game/WinLevel.
+[2024.12.06-04.58.42:359][859]LogNavigationDataBuild: Navigation data generation finished in /Game/WinLevel.
+[2024.12.06-04.58.42:398][863]LogNavigationDataBuild: Navigation data generation finished in /Game/WinLevel.
+[2024.12.06-04.58.42:435][867]LogNavigationDataBuild: Navigation data generation finished in /Game/WinLevel.
+[2024.12.06-04.58.42:710][883]LogNavigationDataBuild: Navigation data generation finished in /Game/WinLevel.
+[2024.12.06-04.58.42:814][885]LogNavigationDataBuild: Navigation data generation finished in /Game/WinLevel.
+[2024.12.06-04.58.42:981][888]LogNavigationDataBuild: Navigation data generation finished in /Game/WinLevel.
+[2024.12.06-04.58.43:495][931]LogNavigationDataBuild: Navigation data generation finished in /Game/WinLevel.
+[2024.12.06-04.58.43:513][933]LogNavigationDataBuild: Navigation data generation finished in /Game/WinLevel.
+[2024.12.06-04.58.43:611][943]LogNavigationDataBuild: Navigation data generation finished in /Game/WinLevel.
+[2024.12.06-04.58.43:632][945]LogNavigationDataBuild: Navigation data generation finished in /Game/WinLevel.
+[2024.12.06-04.58.43:661][948]LogNavigationDataBuild: Navigation data generation finished in /Game/WinLevel.
+[2024.12.06-04.58.43:688][951]LogNavigationDataBuild: Navigation data generation finished in /Game/WinLevel.
+[2024.12.06-04.58.43:718][954]LogNavigationDataBuild: Navigation data generation finished in /Game/WinLevel.
+[2024.12.06-04.58.43:755][958]LogNavigationDataBuild: Navigation data generation finished in /Game/WinLevel.
+[2024.12.06-04.58.43:792][962]LogNavigationDataBuild: Navigation data generation finished in /Game/WinLevel.
+[2024.12.06-04.58.43:811][964]LogNavigationDataBuild: Navigation data generation finished in /Game/WinLevel.
+[2024.12.06-04.58.43:830][966]LogNavigationDataBuild: Navigation data generation finished in /Game/WinLevel.
+[2024.12.06-04.58.43:967][980]LogNavigationDataBuild: Navigation data generation finished in /Game/WinLevel.
+[2024.12.06-04.58.43:986][982]LogNavigationDataBuild: Navigation data generation finished in /Game/WinLevel.
+[2024.12.06-04.58.44:083][993]LogNavigationDataBuild: Navigation data generation finished in /Game/WinLevel.
+[2024.12.06-04.58.44:140][999]LogNavigationDataBuild: Navigation data generation finished in /Game/WinLevel.
+[2024.12.06-04.58.44:176][  3]LogNavigationDataBuild: Navigation data generation finished in /Game/WinLevel.
+[2024.12.06-04.58.44:195][  5]LogNavigationDataBuild: Navigation data generation finished in /Game/WinLevel.
+[2024.12.06-04.58.44:214][  7]LogNavigationDataBuild: Navigation data generation finished in /Game/WinLevel.
+[2024.12.06-04.58.44:256][ 11]LogNavigationDataBuild: Navigation data generation finished in /Game/WinLevel.
+[2024.12.06-04.58.44:295][ 15]LogNavigationDataBuild: Navigation data generation finished in /Game/WinLevel.
+[2024.12.06-04.58.44:342][ 20]LogNavigationDataBuild: Navigation data generation finished in /Game/WinLevel.
+[2024.12.06-04.58.44:408][ 27]LogNavigationDataBuild: Navigation data generation finished in /Game/WinLevel.
+[2024.12.06-04.58.44:699][ 60]LogNavigationDataBuild: Navigation data generation finished in /Game/WinLevel.
+[2024.12.06-04.58.44:735][ 64]LogNavigationDataBuild: Navigation data generation finished in /Game/WinLevel.
+[2024.12.06-04.58.44:775][ 68]LogNavigationDataBuild: Navigation data generation finished in /Game/WinLevel.
+[2024.12.06-04.58.44:820][ 73]LogNavigationDataBuild: Navigation data generation finished in /Game/WinLevel.
+[2024.12.06-04.58.45:242][119]LogNavigationDataBuild: Navigation data generation finished in /Game/WinLevel.
+[2024.12.06-04.58.46:134][219]LogNavigationDataBuild: Navigation data generation finished in /Game/WinLevel.
+[2024.12.06-04.58.46:192][225]LogNavigationDataBuild: Navigation data generation finished in /Game/WinLevel.
+[2024.12.06-04.58.46:246][231]LogNavigationDataBuild: Navigation data generation finished in /Game/WinLevel.
+[2024.12.06-04.58.46:387][247]LogNavigationDataBuild: Navigation data generation finished in /Game/WinLevel.
+[2024.12.06-04.58.46:451][254]LogNavigationDataBuild: Navigation data generation finished in /Game/WinLevel.
+[2024.12.06-04.58.46:499][259]LogNavigationDataBuild: Navigation data generation finished in /Game/WinLevel.
+[2024.12.06-04.58.46:519][261]LogNavigationDataBuild: Navigation data generation finished in /Game/WinLevel.
+[2024.12.06-04.58.46:540][263]LogNavigationDataBuild: Navigation data generation finished in /Game/WinLevel.
+[2024.12.06-04.58.46:577][267]LogNavigationDataBuild: Navigation data generation finished in /Game/WinLevel.
+[2024.12.06-04.58.46:619][271]LogNavigationDataBuild: Navigation data generation finished in /Game/WinLevel.
+[2024.12.06-04.58.46:646][274]LogNavigationDataBuild: Navigation data generation finished in /Game/WinLevel.
+[2024.12.06-04.58.46:750][285]LogNavigationDataBuild: Navigation data generation finished in /Game/WinLevel.
+[2024.12.06-04.58.46:790][289]LogNavigationDataBuild: Navigation data generation finished in /Game/WinLevel.
+[2024.12.06-04.58.46:818][292]LogNavigationDataBuild: Navigation data generation finished in /Game/WinLevel.
+[2024.12.06-04.58.46:875][298]LogNavigationDataBuild: Navigation data generation finished in /Game/WinLevel.
+[2024.12.06-04.58.46:954][306]LogNavigationDataBuild: Navigation data generation finished in /Game/WinLevel.
+[2024.12.06-04.58.47:036][315]LogNavigationDataBuild: Navigation data generation finished in /Game/WinLevel.
+[2024.12.06-04.58.47:085][320]LogNavigationDataBuild: Navigation data generation finished in /Game/WinLevel.
+[2024.12.06-04.58.47:142][326]LogNavigationDataBuild: Navigation data generation finished in /Game/WinLevel.
+[2024.12.06-04.58.47:199][332]LogNavigationDataBuild: Navigation data generation finished in /Game/WinLevel.
+[2024.12.06-04.58.47:314][345]LogNavigationDataBuild: Navigation data generation finished in /Game/WinLevel.
+[2024.12.06-04.58.47:731][390]LogNavigationDataBuild: Navigation data generation finished in /Game/WinLevel.
+[2024.12.06-04.58.52:566][894]LogNavigationDataBuild: Navigation data generation finished in /Game/WinLevel.
+[2024.12.06-04.58.54:386][ 31]LogNavigationDataBuild: Navigation data generation finished in /Game/WinLevel.
+[2024.12.06-04.58.54:434][ 34]LogNavigationDataBuild: Navigation data generation finished in /Game/WinLevel.
+[2024.12.06-04.58.55:881][185]LogNavigationDataBuild: Navigation data generation finished in /Game/WinLevel.
+[2024.12.06-04.58.55:953][193]LogNavigationDataBuild: Navigation data generation finished in /Game/WinLevel.
+[2024.12.06-04.58.55:983][196]LogNavigationDataBuild: Navigation data generation finished in /Game/WinLevel.
+[2024.12.06-04.58.56:164][215]LogNavigationDataBuild: Navigation data generation finished in /Game/WinLevel.
+[2024.12.06-04.58.56:454][245]LogNavigationDataBuild: Navigation data generation finished in /Game/WinLevel.
+[2024.12.06-04.58.56:483][248]LogNavigationDataBuild: Navigation data generation finished in /Game/WinLevel.
+[2024.12.06-04.58.56:511][251]LogNavigationDataBuild: Navigation data generation finished in /Game/WinLevel.
+[2024.12.06-04.58.56:530][253]LogNavigationDataBuild: Navigation data generation finished in /Game/WinLevel.
+[2024.12.06-04.58.56:559][256]LogNavigationDataBuild: Navigation data generation finished in /Game/WinLevel.
+[2024.12.06-04.58.56:578][258]LogNavigationDataBuild: Navigation data generation finished in /Game/WinLevel.
+[2024.12.06-04.58.56:644][265]LogNavigationDataBuild: Navigation data generation finished in /Game/WinLevel.
+[2024.12.06-04.58.56:681][269]LogNavigationDataBuild: Navigation data generation finished in /Game/WinLevel.
+[2024.12.06-04.58.57:179][321]LogNavigationDataBuild: Navigation data generation finished in /Game/WinLevel.
+[2024.12.06-04.58.57:565][360]LogNavigationDataBuild: Navigation data generation finished in /Game/WinLevel.
+[2024.12.06-04.58.59:195][535]LogNavigationDataBuild: Navigation data generation finished in /Game/WinLevel.
+[2024.12.06-04.58.59:363][554]LogNavigationDataBuild: Navigation data generation finished in /Game/WinLevel.
+[2024.12.06-04.58.59:409][559]LogNavigationDataBuild: Navigation data generation finished in /Game/WinLevel.
+[2024.12.06-04.58.59:446][563]LogNavigationDataBuild: Navigation data generation finished in /Game/WinLevel.
+[2024.12.06-04.58.59:558][575]LogNavigationDataBuild: Navigation data generation finished in /Game/WinLevel.
+[2024.12.06-04.58.59:792][602]LogNavigationDataBuild: Navigation data generation finished in /Game/WinLevel.
+[2024.12.06-04.59.00:103][638]LogNavigationDataBuild: Navigation data generation finished in /Game/WinLevel.
+[2024.12.06-04.59.00:536][685]LogNavigationDataBuild: Navigation data generation finished in /Game/WinLevel.
+[2024.12.06-04.59.03:835][ 46]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/WinLevel" FILE="../../../../../ART/Game/FA24-KolbB-SchmitzW/HW2/HW2/Content/WinLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.12.06-04.59.03:848][ 46]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2024.12.06-04.59.03:865][ 46]LogSavePackage: Moving output files for package: /Game/WinLevel
+[2024.12.06-04.59.03:866][ 46]LogSavePackage: Moving '../../../../../ART/Game/FA24-KolbB-SchmitzW/HW2/HW2/Saved/WinLevelDF5803994719147F2ED021AE2D486515.tmp' to '../../../../../ART/Game/FA24-KolbB-SchmitzW/HW2/HW2/Content/WinLevel.umap'
+[2024.12.06-04.59.03:889][ 46]AssetCheck: New page: Asset Save: WinLevel
+[2024.12.06-04.59.03:890][ 46]LogContentValidation: Display: Validating World /Game/WinLevel.WinLevel
+[2024.12.06-04.59.12:153][940]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/WinLevel" FILE="../../../../../ART/Game/FA24-KolbB-SchmitzW/HW2/HW2/Content/WinLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.12.06-04.59.12:164][940]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2024.12.06-04.59.12:181][940]LogSavePackage: Moving output files for package: /Game/WinLevel
+[2024.12.06-04.59.12:182][940]LogSavePackage: Moving '../../../../../ART/Game/FA24-KolbB-SchmitzW/HW2/HW2/Saved/WinLevelED288147489EA7C98A99E0875BA00731.tmp' to '../../../../../ART/Game/FA24-KolbB-SchmitzW/HW2/HW2/Content/WinLevel.umap'
+[2024.12.06-04.59.12:208][940]AssetCheck: New page: Asset Save: WinLevel
+[2024.12.06-04.59.12:208][940]LogContentValidation: Display: Validating World /Game/WinLevel.WinLevel
+[2024.12.06-04.59.25:561][223]Cmd: DUPLICATE
+[2024.12.06-04.59.25:561][223]Cmd: ACTOR DUPLICATE
+[2024.12.06-04.59.25:814][234]LogNavigationDataBuild: Navigation data generation finished in /Game/WinLevel.
+[2024.12.06-04.59.29:065][476]LogNavigationDataBuild: Navigation data generation finished in /Game/WinLevel.
+[2024.12.06-04.59.29:466][519]LogNavigationDataBuild: Navigation data generation finished in /Game/WinLevel.
+[2024.12.06-04.59.32:251][721]LogNavigationDataBuild: Navigation data generation finished in /Game/WinLevel.
+[2024.12.06-04.59.53:791][919]LogNavigationDataBuild: Navigation data generation finished in /Game/WinLevel.
+[2024.12.06-05.00.15:819][184]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/WinLevel" FILE="../../../../../ART/Game/FA24-KolbB-SchmitzW/HW2/HW2/Content/WinLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.12.06-05.00.15:830][184]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2024.12.06-05.00.15:850][184]LogSavePackage: Moving output files for package: /Game/WinLevel
+[2024.12.06-05.00.15:852][184]LogSavePackage: Moving '../../../../../ART/Game/FA24-KolbB-SchmitzW/HW2/HW2/Saved/WinLevelA3F018AC42CF2C5510330F931C60D23D.tmp' to '../../../../../ART/Game/FA24-KolbB-SchmitzW/HW2/HW2/Content/WinLevel.umap'
+[2024.12.06-05.00.15:876][184]AssetCheck: New page: Asset Save: WinLevel
+[2024.12.06-05.00.15:876][184]LogContentValidation: Display: Validating World /Game/WinLevel.WinLevel
+[2024.12.06-05.00.33:366][  2]LogMaterial: Display: Missing cached shadermap for BlackUnlitMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: 9682B458FFA50DCAEF3AE845497D700985C9FFFD), compiling. 
+[2024.12.06-05.00.33:619][  9]LogNavigationDataBuild: Navigation data generation finished in /Game/WinLevel.
+[2024.12.06-05.00.37:582][316]LogShaderCompilers: Display: ================================================
+[2024.12.06-05.00.37:582][316]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.12.06-05.00.37:582][316]LogShaderCompilers: Display: Total job queries 163, among them cache hits 0 (0.00%)
+[2024.12.06-05.00.37:583][316]LogShaderCompilers: Display: Tracking 156 distinct input hashes that result in 99 distinct outputs (63.46%)
+[2024.12.06-05.00.37:583][316]LogShaderCompilers: Display: RAM used: 0.50 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.06%
+[2024.12.06-05.00.37:583][316]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.12.06-05.00.37:583][316]LogShaderCompilers: Display: Shaders Compiled: 163
+[2024.12.06-05.00.37:583][316]LogShaderCompilers: Display: Jobs assigned 162, completed 156 (96.30%)
+[2024.12.06-05.00.37:583][316]LogShaderCompilers: Display: Average time worker was idle: 155.85 s
+[2024.12.06-05.00.37:583][316]LogShaderCompilers: Display: Time job spent in pending queue: average 80.49 s, longest 184.76 s
+[2024.12.06-05.00.37:583][316]LogShaderCompilers: Display: Job execution time: average 34.94 s, max 62.98 s
+[2024.12.06-05.00.37:583][316]LogShaderCompilers: Display: Job life time (pending + execution): average 118.47 s, max 198.42
+[2024.12.06-05.00.37:583][316]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 202.68 s
+[2024.12.06-05.00.37:583][316]LogShaderCompilers: Display: Jobs were issued in 23 batches (only local compilation was used), average 7.04 jobs/batch
+[2024.12.06-05.00.37:583][316]LogShaderCompilers: Display: Average processing rate: 0.77 jobs/sec
+[2024.12.06-05.00.37:583][316]LogShaderCompilers: Display: Effective parallelization: 2.78 (times faster than compiling all shaders on one thread). Compare with number of workers: 3
+[2024.12.06-05.00.37:583][316]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.12.06-05.00.37:583][316]LogShaderCompilers: Display:                         TBasePassPSTLightMapPolicyHQSkylight (compiled    3 times, average 7.36 sec, max 7.40 sec, min 7.30 sec)
+[2024.12.06-05.00.37:583][316]LogShaderCompilers: Display:          TBasePassPSTDistanceFieldShadowsAndLightMapPolicyHQ (compiled    3 times, average 7.31 sec, max 7.42 sec, min 7.15 sec)
+[2024.12.06-05.00.37:583][316]LogShaderCompilers: Display:  TBasePassPSTDistanceFieldShadowsAndLightMapPolicyHQSkylight (compiled    3 times, average 7.28 sec, max 7.33 sec, min 7.25 sec)
+[2024.12.06-05.00.37:583][316]LogShaderCompilers: Display:                                 TBasePassPSTLightMapPolicyHQ (compiled    3 times, average 7.17 sec, max 7.27 sec, min 7.06 sec)
+[2024.12.06-05.00.37:583][316]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight (compiled    5 times, average 7.11 sec, max 8.73 sec, min 4.92 sec)
+[2024.12.06-05.00.37:583][316]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.12.06-05.00.37:583][316]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 8.19% of total time (compiled   12 times, average 3.85 sec, max 7.84 sec, min 1.42 sec)
+[2024.12.06-05.00.37:583][316]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight - 7.20% of total time (compiled    9 times, average 4.51 sec, max 7.49 sec, min 1.23 sec)
+[2024.12.06-05.00.37:583][316]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight - 6.31% of total time (compiled    5 times, average 7.11 sec, max 8.73 sec, min 4.92 sec)
+[2024.12.06-05.00.37:583][316]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight - 6.15% of total time (compiled    5 times, average 6.94 sec, max 7.57 sec, min 5.10 sec)
+[2024.12.06-05.00.37:583][316]LogShaderCompilers: Display:      TBasePassPSFPrecomputedVolumetricLightmapLightingPolicy - 6.06% of total time (compiled    5 times, average 6.83 sec, max 8.50 sec, min 4.59 sec)
+[2024.12.06-05.00.37:583][316]LogShaderCompilers: Display: ================================================
+[2024.12.06-05.00.47:864][228]LogNavigationDataBuild: Navigation data generation finished in /Game/WinLevel.
+[2024.12.06-05.00.57:933][115]LogNavigationDataBuild: Navigation data generation finished in /Game/WinLevel.
+[2024.12.06-05.01.03:080][559]LogNavigationDataBuild: Navigation data generation finished in /Game/WinLevel.
+[2024.12.06-05.01.06:053][823]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/WinLevel" FILE="../../../../../ART/Game/FA24-KolbB-SchmitzW/HW2/HW2/Content/WinLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.12.06-05.01.06:065][823]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2024.12.06-05.01.06:086][823]LogSavePackage: Moving output files for package: /Game/WinLevel
+[2024.12.06-05.01.06:087][823]LogSavePackage: Moving '../../../../../ART/Game/FA24-KolbB-SchmitzW/HW2/HW2/Saved/WinLevel661E78504DA9D1DCADBA1884A3D9360A.tmp' to '../../../../../ART/Game/FA24-KolbB-SchmitzW/HW2/HW2/Content/WinLevel.umap'
+[2024.12.06-05.01.06:110][823]AssetCheck: New page: Asset Save: WinLevel
+[2024.12.06-05.01.06:110][823]LogContentValidation: Display: Validating World /Game/WinLevel.WinLevel
+[2024.12.06-05.01.26:620][ 19]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/WinLevel" FILE="../../../../../ART/Game/FA24-KolbB-SchmitzW/HW2/HW2/Content/WinLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.12.06-05.01.26:636][ 19]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2024.12.06-05.01.26:653][ 19]LogSavePackage: Moving output files for package: /Game/WinLevel
+[2024.12.06-05.01.26:654][ 19]LogSavePackage: Moving '../../../../../ART/Game/FA24-KolbB-SchmitzW/HW2/HW2/Saved/WinLevel61F7E5694B7396F28B2A0E8E10D5DEB2.tmp' to '../../../../../ART/Game/FA24-KolbB-SchmitzW/HW2/HW2/Content/WinLevel.umap'
+[2024.12.06-05.01.26:685][ 19]AssetCheck: New page: Asset Save: WinLevel
+[2024.12.06-05.01.26:685][ 19]LogContentValidation: Display: Validating World /Game/WinLevel.WinLevel
