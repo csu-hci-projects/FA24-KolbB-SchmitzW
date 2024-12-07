@@ -1580,3 +1580,274 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2024.12.06-23.06.09:889][888]LogSavePackage: Moving 'D:/Game Design/CS310H/GitHub/FA24-KolbB-SchmitzW/HW2/HW2/Saved/LevelOne1BB0F4274B06981593C6DA8B48CAFCA1.tmp' to 'D:/Game Design/CS310H/GitHub/FA24-KolbB-SchmitzW/HW2/HW2/Content/LevelOne.umap'
 [2024.12.06-23.06.09:914][888]AssetCheck: New page: Asset Save: LevelOne
 [2024.12.06-23.06.09:914][888]LogContentValidation: Display: Validating World /Game/LevelOne.LevelOne
+[2024.12.06-23.42.58:326][891]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA00_StreamCache_Ver5027_MEM_65536MaxChnkSize_0000000 wave Camera_Shutter...
+[2024.12.06-23.42.58:332][891]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 210840 while cooking SoundWave /Engine/VREditor/Sounds/UI/Camera_Shutter.Camera_Shutter.
+[2024.12.06-23.42.58:332][891]LogAudio: Display: Chunk size for SoundWave /Engine/VREditor/Sounds/UI/Camera_Shutter.Camera_Shutter: 262144
+[2024.12.06-23.42.58:332][891]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA00_StreamCache_Ver5027_MEM_65536MaxChnkSize_0000000 wave Click_on_Button...
+[2024.12.06-23.42.58:336][891]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 108544 while cooking SoundWave /Engine/VREditor/Sounds/UI/Click_on_Button.Click_on_Button.
+[2024.12.06-23.42.58:336][891]LogAudio: Display: Chunk size for SoundWave /Engine/VREditor/Sounds/UI/Click_on_Button.Click_on_Button: 262144
+[2024.12.06-23.42.58:343][891]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/myblueprints/MyVrPistol.MyVrPistol
+[2024.12.06-23.42.58:343][891]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.12.06-23.43.07:181][884]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2024.12.06-23.43.07:181][884]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.06-23.43.12:378][483]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/myblueprints/MyVrPistol.MyVrPistol_C
+[2024.12.06-23.43.12:378][483]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/myblueprints/MyVrPistol.MyVrPistol_C
+[2024.12.06-23.43.12:379][483]LogActorFactory: Actor Factory spawned Blueprint /Game/myblueprints/MyVrPistol.MyVrPistol as actor: MyVrPistol_C /Game/LevelOne.LevelOne:PersistentLevel.MyVrPistol_C_0
+[2024.12.06-23.43.12:380][483]LogActorFactory: Actor Factory spawned Blueprint /Game/myblueprints/MyVrPistol.MyVrPistol as actor: MyVrPistol_C /Game/LevelOne.LevelOne:PersistentLevel.MyVrPistol_C_0
+[2024.12.06-23.43.14:688][751]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/myblueprints/MyVrPistol.MyVrPistol_C
+[2024.12.06-23.43.14:688][751]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/myblueprints/MyVrPistol.MyVrPistol_C
+[2024.12.06-23.43.14:690][751]LogActorFactory: Actor Factory spawned Blueprint /Game/myblueprints/MyVrPistol.MyVrPistol as actor: MyVrPistol_C /Game/LevelOne.LevelOne:PersistentLevel.MyVrPistol_C_1
+[2024.12.06-23.43.14:691][751]LogActorFactory: Actor Factory spawned Blueprint /Game/myblueprints/MyVrPistol.MyVrPistol as actor: MyVrPistol_C /Game/LevelOne.LevelOne:PersistentLevel.MyVrPistol_C_1
+[2024.12.06-23.43.35:892][183]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterContent/Shapes/Shape_Cube.Shape_Cube
+[2024.12.06-23.43.35:892][183]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterContent/Shapes/Shape_Cube.Shape_Cube
+[2024.12.06-23.43.35:893][183]LogActorFactory: Actor Factory spawned StaticMesh /Game/StarterContent/Shapes/Shape_Cube.Shape_Cube as actor: StaticMeshActor /Game/LevelOne.LevelOne:PersistentLevel.StaticMeshActor_0
+[2024.12.06-23.43.36:803][289]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterContent/Shapes/Shape_Cube.Shape_Cube
+[2024.12.06-23.43.36:803][289]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterContent/Shapes/Shape_Cube.Shape_Cube
+[2024.12.06-23.43.36:804][289]LogActorFactory: Actor Factory spawned StaticMesh /Game/StarterContent/Shapes/Shape_Cube.Shape_Cube as actor: StaticMeshActor /Game/LevelOne.LevelOne:PersistentLevel.StaticMeshActor_6
+[2024.12.06-23.43.36:832][290]LogNavigationDataBuild: Navigation data generation finished in /Game/LevelOne.
+[2024.12.06-23.43.45:172][162]LogNavigationDataBuild: Navigation data generation finished in /Game/LevelOne.
+[2024.12.06-23.43.45:222][168]LogNavigationDataBuild: Navigation data generation finished in /Game/LevelOne.
+[2024.12.06-23.43.45:388][188]LogNavigationDataBuild: Navigation data generation finished in /Game/LevelOne.
+[2024.12.06-23.43.45:438][194]LogNavigationDataBuild: Navigation data generation finished in /Game/LevelOne.
+[2024.12.06-23.43.45:480][199]LogNavigationDataBuild: Navigation data generation finished in /Game/LevelOne.
+[2024.12.06-23.43.45:497][201]LogNavigationDataBuild: Navigation data generation finished in /Game/LevelOne.
+[2024.12.06-23.43.45:513][203]LogNavigationDataBuild: Navigation data generation finished in /Game/LevelOne.
+[2024.12.06-23.43.45:538][206]LogNavigationDataBuild: Navigation data generation finished in /Game/LevelOne.
+[2024.12.06-23.43.45:580][211]LogNavigationDataBuild: Navigation data generation finished in /Game/LevelOne.
+[2024.12.06-23.43.45:597][213]LogNavigationDataBuild: Navigation data generation finished in /Game/LevelOne.
+[2024.12.06-23.43.45:613][215]LogNavigationDataBuild: Navigation data generation finished in /Game/LevelOne.
+[2024.12.06-23.43.45:879][245]LogNavigationDataBuild: Navigation data generation finished in /Game/LevelOne.
+[2024.12.06-23.43.45:915][247]LogNavigationDataBuild: Navigation data generation finished in /Game/LevelOne.
+[2024.12.06-23.43.46:010][252]LogNavigationDataBuild: Navigation data generation finished in /Game/LevelOne.
+[2024.12.06-23.43.46:308][265]LogNavigationDataBuild: Navigation data generation finished in /Game/LevelOne.
+[2024.12.06-23.43.46:588][293]LogNavigationDataBuild: Navigation data generation finished in /Game/LevelOne.
+[2024.12.06-23.43.46:697][306]LogNavigationDataBuild: Navigation data generation finished in /Game/LevelOne.
+[2024.12.06-23.43.46:914][332]LogNavigationDataBuild: Navigation data generation finished in /Game/LevelOne.
+[2024.12.06-23.43.46:930][334]LogNavigationDataBuild: Navigation data generation finished in /Game/LevelOne.
+[2024.12.06-23.43.46:997][342]LogNavigationDataBuild: Navigation data generation finished in /Game/LevelOne.
+[2024.12.06-23.43.47:322][381]LogNavigationDataBuild: Navigation data generation finished in /Game/LevelOne.
+[2024.12.06-23.43.47:339][383]LogNavigationDataBuild: Navigation data generation finished in /Game/LevelOne.
+[2024.12.06-23.43.47:397][390]LogNavigationDataBuild: Navigation data generation finished in /Game/LevelOne.
+[2024.12.06-23.43.47:962][455]LogNavigationDataBuild: Navigation data generation finished in /Game/LevelOne.
+[2024.12.06-23.43.53:483][ 61]LogNavigationDataBuild: Navigation data generation finished in /Game/LevelOne.
+[2024.12.06-23.43.53:642][ 80]LogNavigationDataBuild: Navigation data generation finished in /Game/LevelOne.
+[2024.12.06-23.43.53:742][ 92]LogNavigationDataBuild: Navigation data generation finished in /Game/LevelOne.
+[2024.12.06-23.43.54:342][164]LogNavigationDataBuild: Navigation data generation finished in /Game/LevelOne.
+[2024.12.06-23.43.55:024][243]LogNavigationDataBuild: Navigation data generation finished in /Game/LevelOne.
+[2024.12.06-23.43.55:766][332]LogNavigationDataBuild: Navigation data generation finished in /Game/LevelOne.
+[2024.12.06-23.43.55:800][336]LogNavigationDataBuild: Navigation data generation finished in /Game/LevelOne.
+[2024.12.06-23.43.55:841][341]LogNavigationDataBuild: Navigation data generation finished in /Game/LevelOne.
+[2024.12.06-23.43.56:314][395]LogNavigationDataBuild: Navigation data generation finished in /Game/LevelOne.
+[2024.12.06-23.43.56:847][459]LogNavigationDataBuild: Navigation data generation finished in /Game/LevelOne.
+[2024.12.06-23.43.56:905][466]LogNavigationDataBuild: Navigation data generation finished in /Game/LevelOne.
+[2024.12.06-23.43.57:339][515]LogNavigationDataBuild: Navigation data generation finished in /Game/LevelOne.
+[2024.12.06-23.43.57:989][593]LogNavigationDataBuild: Navigation data generation finished in /Game/LevelOne.
+[2024.12.06-23.43.58:254][622]LogNavigationDataBuild: Navigation data generation finished in /Game/LevelOne.
+[2024.12.06-23.44.04:460][314]LogNavigationDataBuild: Navigation data generation finished in /Game/LevelOne.
+[2024.12.06-23.44.04:476][316]LogNavigationDataBuild: Navigation data generation finished in /Game/LevelOne.
+[2024.12.06-23.44.04:826][358]LogNavigationDataBuild: Navigation data generation finished in /Game/LevelOne.
+[2024.12.06-23.44.04:843][360]LogNavigationDataBuild: Navigation data generation finished in /Game/LevelOne.
+[2024.12.06-23.44.04:860][362]LogNavigationDataBuild: Navigation data generation finished in /Game/LevelOne.
+[2024.12.06-23.44.05:043][384]LogNavigationDataBuild: Navigation data generation finished in /Game/LevelOne.
+[2024.12.06-23.44.05:134][395]LogNavigationDataBuild: Navigation data generation finished in /Game/LevelOne.
+[2024.12.06-23.44.05:260][410]LogNavigationDataBuild: Navigation data generation finished in /Game/LevelOne.
+[2024.12.06-23.44.05:284][413]LogNavigationDataBuild: Navigation data generation finished in /Game/LevelOne.
+[2024.12.06-23.44.05:467][432]LogNavigationDataBuild: Navigation data generation finished in /Game/LevelOne.
+[2024.12.06-23.44.12:052][166]LogNavigationDataBuild: Navigation data generation finished in /Game/LevelOne.
+[2024.12.06-23.44.12:751][250]LogNavigationDataBuild: Navigation data generation finished in /Game/LevelOne.
+[2024.12.06-23.44.13:185][302]LogNavigationDataBuild: Navigation data generation finished in /Game/LevelOne.
+[2024.12.06-23.44.13:892][384]LogNavigationDataBuild: Navigation data generation finished in /Game/LevelOne.
+[2024.12.06-23.44.14:417][447]LogNavigationDataBuild: Navigation data generation finished in /Game/LevelOne.
+[2024.12.06-23.44.14:475][454]LogNavigationDataBuild: Navigation data generation finished in /Game/LevelOne.
+[2024.12.06-23.44.14:542][462]LogNavigationDataBuild: Navigation data generation finished in /Game/LevelOne.
+[2024.12.06-23.44.14:666][477]LogNavigationDataBuild: Navigation data generation finished in /Game/LevelOne.
+[2024.12.06-23.44.14:765][486]LogNavigationDataBuild: Navigation data generation finished in /Game/LevelOne.
+[2024.12.06-23.44.15:682][596]LogNavigationDataBuild: Navigation data generation finished in /Game/LevelOne.
+[2024.12.06-23.44.15:815][612]LogNavigationDataBuild: Navigation data generation finished in /Game/LevelOne.
+[2024.12.06-23.44.16:057][641]LogNavigationDataBuild: Navigation data generation finished in /Game/LevelOne.
+[2024.12.06-23.44.16:148][652]LogNavigationDataBuild: Navigation data generation finished in /Game/LevelOne.
+[2024.12.06-23.44.16:631][707]LogNavigationDataBuild: Navigation data generation finished in /Game/LevelOne.
+[2024.12.06-23.44.18:715][957]LogNavigationDataBuild: Navigation data generation finished in /Game/LevelOne.
+[2024.12.06-23.44.19:257][ 22]LogNavigationDataBuild: Navigation data generation finished in /Game/LevelOne.
+[2024.12.06-23.44.19:897][ 96]LogNavigationDataBuild: Navigation data generation finished in /Game/LevelOne.
+[2024.12.06-23.44.21:261][257]LogNavigationDataBuild: Navigation data generation finished in /Game/LevelOne.
+[2024.12.06-23.44.22:488][358]LogNavigationDataBuild: Navigation data generation finished in /Game/LevelOne.
+[2024.12.06-23.44.22:963][415]LogNavigationDataBuild: Navigation data generation finished in /Game/LevelOne.
+[2024.12.06-23.44.23:437][469]LogNavigationDataBuild: Navigation data generation finished in /Game/LevelOne.
+[2024.12.06-23.44.31:089][367]LogNavigationDataBuild: Navigation data generation finished in /Game/LevelOne.
+[2024.12.06-23.44.32:922][587]LogNavigationDataBuild: Navigation data generation finished in /Game/LevelOne.
+[2024.12.06-23.44.35:928][936]LogNavigationDataBuild: Navigation data generation finished in /Game/LevelOne.
+[2024.12.06-23.44.38:129][197]LogNavigationDataBuild: Navigation data generation finished in /Game/LevelOne.
+[2024.12.06-23.44.38:254][212]LogNavigationDataBuild: Navigation data generation finished in /Game/LevelOne.
+[2024.12.06-23.44.38:321][220]LogNavigationDataBuild: Navigation data generation finished in /Game/LevelOne.
+[2024.12.06-23.44.38:513][243]LogNavigationDataBuild: Navigation data generation finished in /Game/LevelOne.
+[2024.12.06-23.44.38:654][260]LogNavigationDataBuild: Navigation data generation finished in /Game/LevelOne.
+[2024.12.06-23.44.38:871][286]LogNavigationDataBuild: Navigation data generation finished in /Game/LevelOne.
+[2024.12.06-23.44.39:255][332]LogNavigationDataBuild: Navigation data generation finished in /Game/LevelOne.
+[2024.12.06-23.44.40:388][468]LogNavigationDataBuild: Navigation data generation finished in /Game/LevelOne.
+[2024.12.06-23.44.41:146][559]LogNavigationDataBuild: Navigation data generation finished in /Game/LevelOne.
+[2024.12.06-23.44.41:579][611]LogNavigationDataBuild: Navigation data generation finished in /Game/LevelOne.
+[2024.12.06-23.44.42:160][678]LogNavigationDataBuild: Navigation data generation finished in /Game/LevelOne.
+[2024.12.06-23.44.47:582][317]LogNavigationDataBuild: Navigation data generation finished in /Game/LevelOne.
+[2024.12.06-23.44.50:040][609]LogNavigationDataBuild: Navigation data generation finished in /Game/LevelOne.
+[2024.12.06-23.44.50:214][630]LogNavigationDataBuild: Navigation data generation finished in /Game/LevelOne.
+[2024.12.06-23.44.50:448][658]LogNavigationDataBuild: Navigation data generation finished in /Game/LevelOne.
+[2024.12.06-23.44.50:498][664]LogNavigationDataBuild: Navigation data generation finished in /Game/LevelOne.
+[2024.12.06-23.44.50:531][668]LogNavigationDataBuild: Navigation data generation finished in /Game/LevelOne.
+[2024.12.06-23.44.50:557][671]LogNavigationDataBuild: Navigation data generation finished in /Game/LevelOne.
+[2024.12.06-23.44.50:581][674]LogNavigationDataBuild: Navigation data generation finished in /Game/LevelOne.
+[2024.12.06-23.44.50:606][677]LogNavigationDataBuild: Navigation data generation finished in /Game/LevelOne.
+[2024.12.06-23.44.50:631][680]LogNavigationDataBuild: Navigation data generation finished in /Game/LevelOne.
+[2024.12.06-23.44.50:673][685]LogNavigationDataBuild: Navigation data generation finished in /Game/LevelOne.
+[2024.12.06-23.44.51:340][765]LogNavigationDataBuild: Navigation data generation finished in /Game/LevelOne.
+[2024.12.06-23.44.51:448][778]LogNavigationDataBuild: Navigation data generation finished in /Game/LevelOne.
+[2024.12.06-23.44.51:656][803]LogNavigationDataBuild: Navigation data generation finished in /Game/LevelOne.
+[2024.12.06-23.44.52:462][897]LogNavigationDataBuild: Navigation data generation finished in /Game/LevelOne.
+[2024.12.06-23.44.53:879][ 67]LogNavigationDataBuild: Navigation data generation finished in /Game/LevelOne.
+[2024.12.06-23.44.54:104][ 94]LogNavigationDataBuild: Navigation data generation finished in /Game/LevelOne.
+[2024.12.06-23.44.54:254][112]LogNavigationDataBuild: Navigation data generation finished in /Game/LevelOne.
+[2024.12.06-23.44.54:727][166]LogNavigationDataBuild: Navigation data generation finished in /Game/LevelOne.
+[2024.12.06-23.45.00:216][735]LogNavigationDataBuild: Navigation data generation finished in /Game/LevelOne.
+[2024.12.06-23.45.00:701][782]LogNavigationDataBuild: Navigation data generation finished in /Game/LevelOne.
+[2024.12.06-23.45.31:577][349]LogNavigationDataBuild: Navigation data generation finished in /Game/LevelOne.
+[2024.12.06-23.45.35:609][818]LogNavigationDataBuild: Navigation data generation finished in /Game/LevelOne.
+[2024.12.06-23.45.54:063][853]Cmd: TRANSACTION UNDO
+[2024.12.06-23.45.54:063][853]LogEditorTransaction: Undo Clicking on Elements
+[2024.12.06-23.45.54:375][861]Cmd: TRANSACTION UNDO
+[2024.12.06-23.45.54:375][861]LogEditorTransaction: Undo Clicking on Elements
+[2024.12.06-23.45.54:852][898]Cmd: TRANSACTION UNDO
+[2024.12.06-23.45.54:852][898]LogEditorTransaction: Undo Clicking on Elements
+[2024.12.06-23.45.55:180][932]Cmd: TRANSACTION UNDO
+[2024.12.06-23.45.55:180][932]LogEditorTransaction: Undo Clicking on Elements
+[2024.12.06-23.45.55:476][965]Cmd: TRANSACTION UNDO
+[2024.12.06-23.45.55:476][965]LogEditorTransaction: Undo Clicking on Elements
+[2024.12.06-23.46.06:929][293]LogNavigationDataBuild: Navigation data generation finished in /Game/LevelOne.
+[2024.12.06-23.46.17:645][545]LogNavigationDataBuild: Navigation data generation finished in /Game/LevelOne.
+[2024.12.06-23.46.23:998][282]LogMaterial: Display: Missing cached shadermap for TerrainCollisionMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: D10A11F70A5522717A8CD2FC93CD064815F7A3DF), compiling. Is special engine material.
+[2024.12.06-23.46.24:356][283]LogNavigationDataBuild: Navigation data generation finished in /Game/LevelOne.
+[2024.12.06-23.46.25:170][374]LogShaderCompilers: Display: ================================================
+[2024.12.06-23.46.25:170][374]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.12.06-23.46.25:170][374]LogShaderCompilers: Display: Total job queries 522, among them cache hits 10 (1.92%)
+[2024.12.06-23.46.25:170][374]LogShaderCompilers: Display: Tracking 96 distinct input hashes that result in 59 distinct outputs (61.46%)
+[2024.12.06-23.46.25:170][374]LogShaderCompilers: Display: RAM used: 0.24 MB (0.00 GB) of 3276.80 MB (3.20 GB) budget. Usage: 0.01%
+[2024.12.06-23.46.25:170][374]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.12.06-23.46.25:170][374]LogShaderCompilers: Display: Shaders Compiled: 513
+[2024.12.06-23.46.25:170][374]LogShaderCompilers: Display: Jobs assigned 207, completed 96 (46.38%)
+[2024.12.06-23.46.25:170][374]LogShaderCompilers: Display: Average time worker was idle: 1096.38 s
+[2024.12.06-23.46.25:170][374]LogShaderCompilers: Display: Time job spent in pending queue: average 0.84 s, longest 6.84 s
+[2024.12.06-23.46.25:170][374]LogShaderCompilers: Display: Job execution time: average 2.77 s, max 5.74 s
+[2024.12.06-23.46.25:170][374]LogShaderCompilers: Display: Job life time (pending + execution): average 4.41 s, max 8.57
+[2024.12.06-23.46.25:170][374]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 12.61 s
+[2024.12.06-23.46.25:170][374]LogShaderCompilers: Display: Jobs were issued in 73 batches (only local compilation was used), average 2.84 jobs/batch
+[2024.12.06-23.46.25:170][374]LogShaderCompilers: Display: Average processing rate: 7.61 jobs/sec
+[2024.12.06-23.46.25:170][374]LogShaderCompilers: Display: Effective parallelization: 7.80 (times faster than compiling all shaders on one thread). Compare with number of workers: 12
+[2024.12.06-23.46.25:170][374]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.12.06-23.46.25:170][374]LogShaderCompilers: Display:     TBasePassPSFSelfShadowedVolumetricLightmapPolicySkylight (compiled    2 times, average 1.97 sec, max 1.98 sec, min 1.96 sec)
+[2024.12.06-23.46.25:170][374]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight (compiled    2 times, average 1.97 sec, max 2.01 sec, min 1.92 sec)
+[2024.12.06-23.46.25:170][374]LogShaderCompilers: Display:                         TBasePassPSTLightMapPolicyLQSkylight (compiled    2 times, average 1.94 sec, max 1.99 sec, min 1.89 sec)
+[2024.12.06-23.46.25:170][374]LogShaderCompilers: Display:  TBasePassPSTDistanceFieldShadowsAndLightMapPolicyHQSkylight (compiled    2 times, average 1.93 sec, max 1.94 sec, min 1.92 sec)
+[2024.12.06-23.46.25:170][374]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight (compiled    2 times, average 1.93 sec, max 1.96 sec, min 1.90 sec)
+[2024.12.06-23.46.25:170][374]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.12.06-23.46.25:170][374]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 6.24% of total time (compiled    6 times, average 1.02 sec, max 2.06 sec, min 0.38 sec)
+[2024.12.06-23.46.25:170][374]LogShaderCompilers: Display:     TBasePassPSFSelfShadowedVolumetricLightmapPolicySkylight - 4.01% of total time (compiled    2 times, average 1.97 sec, max 1.98 sec, min 1.96 sec)
+[2024.12.06-23.46.25:170][374]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight - 4.00% of total time (compiled    2 times, average 1.97 sec, max 2.01 sec, min 1.92 sec)
+[2024.12.06-23.46.25:170][374]LogShaderCompilers: Display:                         TBasePassPSTLightMapPolicyLQSkylight - 3.94% of total time (compiled    2 times, average 1.94 sec, max 1.99 sec, min 1.89 sec)
+[2024.12.06-23.46.25:170][374]LogShaderCompilers: Display:  TBasePassPSTDistanceFieldShadowsAndLightMapPolicyHQSkylight - 3.92% of total time (compiled    2 times, average 1.93 sec, max 1.94 sec, min 1.92 sec)
+[2024.12.06-23.46.25:170][374]LogShaderCompilers: Display: ================================================
+[2024.12.06-23.46.49:682][875]LogMaterial: Display: Missing cached shadermap for SelectedGeometryMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: 3CE56D63162EA99FF7A7CFC17F1B79B4E00C2ACA), compiling. 
+[2024.12.06-23.46.49:683][875]LogMaterial: Warning: [AssetLog] C:\Program Files\Epic Games\UE_5.0\Engine\Content\EditorMaterials\GeometryCollection\SelectedGeometryMaterial.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	(Node SceneTexture) GBuffer scene textures not available with forward shading.
+
+[2024.12.06-23.46.49:724][876]LogNavigationDataBuild: Navigation data generation finished in /Game/LevelOne.
+[2024.12.06-23.46.58:173][869]LogNavigationDataBuild: Navigation data generation finished in /Game/LevelOne.
+[2024.12.06-23.47.26:599][121]LogNavigationDataBuild: Navigation data generation finished in /Game/LevelOne.
+[2024.12.06-23.47.30:193][534]LogNavigationDataBuild: Navigation data generation finished in /Game/LevelOne.
+[2024.12.06-23.47.36:544][266]LogMaterial: Display: Missing cached shadermap for MAT_Groups_Trajectory_On_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: EC836C5BEA52F779756A67FBE30F3941082FDD53), compiling. 
+[2024.12.06-23.47.36:593][267]LogNavigationDataBuild: Navigation data generation finished in /Game/LevelOne.
+[2024.12.06-23.48.25:518][708]LogActorFactory: Actor Factory attempting to spawn Class /Script/NavigationSystem.NavModifierVolume
+[2024.12.06-23.48.25:518][708]LogActorFactory: Actor Factory attempting to spawn Class /Script/NavigationSystem.NavModifierVolume
+[2024.12.06-23.48.25:518][708]LogActorFactory: Actor Factory spawned Class /Script/NavigationSystem.NavModifierVolume as actor: NavModifierVolume /Game/LevelOne.LevelOne:PersistentLevel.NavModifierVolume_0
+[2024.12.06-23.48.25:520][708]LogActorFactory: Actor Factory spawned Class /Script/NavigationSystem.NavModifierVolume as actor: NavModifierVolume /Game/LevelOne.LevelOne:PersistentLevel.NavModifierVolume_0
+[2024.12.06-23.48.25:609][709]LogNavigationDataBuild: Navigation data generation finished in /Game/LevelOne.
+[2024.12.06-23.48.28:368][ 37]LogNavigationDataBuild: Navigation data generation finished in /Game/LevelOne.
+[2024.12.06-23.48.33:587][650]LogNavigationDataBuild: Navigation data generation finished in /Game/LevelOne.
+[2024.12.06-23.48.37:629][129]LogNavigationDataBuild: Navigation data generation finished in /Game/LevelOne.
+[2024.12.06-23.48.41:407][573]LogNavigationDataBuild: Navigation data generation finished in /Game/LevelOne.
+[2024.12.06-23.48.45:763][ 90]LogNavigationDataBuild: Navigation data generation finished in /Game/LevelOne.
+[2024.12.06-23.48.49:106][485]LogNavigationDataBuild: Navigation data generation finished in /Game/LevelOne.
+[2024.12.06-23.48.57:775][290]LogNavigationDataBuild: Navigation data generation finished in /Game/LevelOne.
+[2024.12.06-23.49.01:121][686]LogNavigationDataBuild: Navigation data generation finished in /Game/LevelOne.
+[2024.12.06-23.49.08:607][579]LogNavigationDataBuild: Navigation data generation finished in /Game/LevelOne.
+[2024.12.06-23.49.16:246][479]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LevelOne" FILE="D:/Game Design/CS310H/GitHub/FA24-KolbB-SchmitzW/HW2/HW2/Content/LevelOne.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.12.06-23.49.16:304][479]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2024.12.06-23.49.16:324][479]LogSavePackage: Moving output files for package: /Game/LevelOne
+[2024.12.06-23.49.16:324][479]LogSavePackage: Moving 'D:/Game Design/CS310H/GitHub/FA24-KolbB-SchmitzW/HW2/HW2/Saved/LevelOne194D14D5488E552EAFAA9392675157AA.tmp' to 'D:/Game Design/CS310H/GitHub/FA24-KolbB-SchmitzW/HW2/HW2/Content/LevelOne.umap'
+[2024.12.06-23.49.16:346][479]AssetCheck: New page: Asset Save: LevelOne
+[2024.12.06-23.49.16:346][479]LogContentValidation: Display: Validating World /Game/LevelOne.LevelOne
+[2024.12.06-23.49.23:488][792]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2024.12.06-23.49.59:911][751]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/myblueprints/myTarget.myTarget
+[2024.12.06-23.49.59:911][751]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.12.07-00.04.49:198][583]LogNavigationDataBuild: Navigation data generation finished in /Game/LevelOne.
+[2024.12.07-00.04.51:254][829]LogDerivedDataCache: C:/Users/Ben/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.063 and deleted 0 file(s) with total size 0 MiB.
+[2024.12.07-00.04.57:267][534]LogNavigationDataBuild: Navigation data generation finished in /Game/LevelOne.
+[2024.12.07-00.05.28:147][181]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2024.12.07-00.05.28:149][181]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LevelOne" FILE="D:/Game Design/CS310H/GitHub/FA24-KolbB-SchmitzW/HW2/HW2/Saved/Autosaves/Game/LevelOne_Auto1.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2024.12.07-00.05.28:165][181]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/LevelOne_Auto1
+[2024.12.07-00.05.28:165][181]LogSavePackage: Moving 'D:/Game Design/CS310H/GitHub/FA24-KolbB-SchmitzW/HW2/HW2/Saved/LevelOne_Auto1EBF907564558C44FF8A19BB7EC23B852.tmp' to 'D:/Game Design/CS310H/GitHub/FA24-KolbB-SchmitzW/HW2/HW2/Saved/Autosaves/Game/LevelOne_Auto1.umap'
+[2024.12.07-00.05.28:173][181]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/LevelOne' took 0.080
+[2024.12.07-00.05.28:173][181]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.080
+[2024.12.07-00.05.28:173][181]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/myblueprints/myTarget] ([2] browsable assets)...
+[2024.12.07-00.05.28:185][181]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/myblueprints/myTarget.myTarget]
+[2024.12.07-00.05.28:185][181]OBJ SavePackage: Finished generating thumbnails for package [/Game/myblueprints/myTarget]
+[2024.12.07-00.05.28:193][181]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/myblueprints/myTarget_Auto1
+[2024.12.07-00.05.28:193][181]LogSavePackage: Moving 'D:/Game Design/CS310H/GitHub/FA24-KolbB-SchmitzW/HW2/HW2/Saved/myTarget_Auto1E820E74945BD0020CCD7D8877E8408FF.tmp' to 'D:/Game Design/CS310H/GitHub/FA24-KolbB-SchmitzW/HW2/HW2/Saved/Autosaves/Game/myblueprints/myTarget_Auto1.uasset'
+[2024.12.07-00.05.28:193][181]LogFileHelpers: Auto-saving content packages took 0.020
+[2024.12.07-00.05.53:024][156]LogWorld: UWorld::CleanupWorld for World_21, bSessionEnded=true, bCleanupResources=true
+[2024.12.07-00.05.53:024][156]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.07-00.06.16:470][319]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/LevelOne.LevelOne:PersistentLevel.LevelOne
+[2024.12.07-00.06.16:470][319]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.12.07-00.07.00:832][364]LogBlueprint: Warning: [AssetLog] D:\Game Design\CS310H\GitHub\FA24-KolbB-SchmitzW\HW2\HW2\Content\LevelOne.umap: [Compiler] Pasted node  CustomEvent   conflicted with  target_died  and was replaced as a Custom Event!
+[2024.12.07-00.07.01:037][372]LogSlate: Vector cache flush requested. Reason: Large atlases out of space; 2/1 Textures; frames since last flush: 18446739051174208604
+[2024.12.07-00.07.01:037][372]LogSlate: Warning: Setting the threshold to trigger a flush to 2 non-atlased textures as there is a lot of font data being cached.
+[2024.12.07-00.08.23:529][ 75]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/myblueprints/myTarget.myTarget
+[2024.12.07-00.08.23:530][ 75]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.12.07-00.09.01:301][ 75]LogViewport: Scene viewport resized to 2288x1468, mode Windowed.
+[2024.12.07-00.09.13:151][355]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/myblueprints/myTarget" FILE="D:/Game Design/CS310H/GitHub/FA24-KolbB-SchmitzW/HW2/HW2/Content/myblueprints/myTarget.uasset" SILENT=true
+[2024.12.07-00.09.13:159][355]LogSavePackage: Moving output files for package: /Game/myblueprints/myTarget
+[2024.12.07-00.09.13:159][355]LogSavePackage: Moving 'D:/Game Design/CS310H/GitHub/FA24-KolbB-SchmitzW/HW2/HW2/Saved/myTargetD81ED38E409F2E305B4D6DAFB72C2C8D.tmp' to 'D:/Game Design/CS310H/GitHub/FA24-KolbB-SchmitzW/HW2/HW2/Content/myblueprints/myTarget.uasset'
+[2024.12.07-00.09.13:176][355]AssetCheck: New page: Asset Save: myTarget
+[2024.12.07-00.09.13:176][355]LogContentValidation: Display: Validating Blueprint /Game/myblueprints/myTarget.myTarget
+[2024.12.07-00.09.14:881][545]BlueprintLog: New page: Compile myTarget
+[2024.12.07-00.09.14:975][545]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2024.12.07-00.09.15:052][546]LogNavigationDataBuild: Navigation data generation finished in /Game/LevelOne.
+[2024.12.07-00.11.29:575][836]LogSlate: Took 0.005421 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2024.12.07-00.11.48:658][ 90]BlueprintLog: New page: Compile LevelOne
+[2024.12.07-00.11.48:736][ 90]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2024.12.07-00.11.51:618][420]LogSceneOutliner: Outliner Column Item Label does not have a localizable name, please specify one to FSceneOutlinerColumnInfo
+[2024.12.07-00.11.51:618][420]LogSceneOutliner: Outliner Column Type does not have a localizable name, please specify one to FSceneOutlinerColumnInfo
+[2024.12.07-00.12.24:904][351]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2024.12.07-00.12.35:299][583]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LevelOne" FILE="D:/Game Design/CS310H/GitHub/FA24-KolbB-SchmitzW/HW2/HW2/Content/LevelOne.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.12.07-00.12.35:352][583]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2024.12.07-00.12.35:372][583]LogSavePackage: Moving output files for package: /Game/LevelOne
+[2024.12.07-00.12.35:372][583]LogSavePackage: Moving 'D:/Game Design/CS310H/GitHub/FA24-KolbB-SchmitzW/HW2/HW2/Saved/LevelOne1C6C96764737C8630CCC979941FFB031.tmp' to 'D:/Game Design/CS310H/GitHub/FA24-KolbB-SchmitzW/HW2/HW2/Content/LevelOne.umap'
+[2024.12.07-00.12.35:382][583]LogFileHelpers: Saving map 'LevelOne' took 0.083
+[2024.12.07-00.12.35:411][583]AssetCheck: New page: Asset Save: LevelOne
+[2024.12.07-00.12.35:411][583]LogContentValidation: Display: Validating World /Game/LevelOne.LevelOne
+[2024.12.07-00.12.36:259][676]BlueprintLog: New page: Compile LevelOne
+[2024.12.07-00.12.36:333][676]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2024.12.07-00.12.45:346][562]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2024.12.07-00.12.45:457][562]LogUObjectGlobals: Warning: Failed to find object 'Class None.Physics'
+[2024.12.07-00.13.40:012][905]LogSlate: Window 'Project Settings' being destroyed
+[2024.12.07-00.13.40:019][905]LogSlate: Window 'Project Settings' being destroyed
+[2024.12.07-00.13.48:972][839]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LevelOne" FILE="D:/Game Design/CS310H/GitHub/FA24-KolbB-SchmitzW/HW2/HW2/Content/LevelOne.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.12.07-00.13.49:061][839]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2024.12.07-00.13.49:081][839]LogSavePackage: Moving output files for package: /Game/LevelOne
+[2024.12.07-00.13.49:081][839]LogSavePackage: Moving 'D:/Game Design/CS310H/GitHub/FA24-KolbB-SchmitzW/HW2/HW2/Saved/LevelOneF30CF9B547B6B50A3A7304919C0177FD.tmp' to 'D:/Game Design/CS310H/GitHub/FA24-KolbB-SchmitzW/HW2/HW2/Content/LevelOne.umap'
+[2024.12.07-00.13.49:105][839]AssetCheck: New page: Asset Save: LevelOne
+[2024.12.07-00.13.49:105][839]LogContentValidation: Display: Validating World /Game/LevelOne.LevelOne
+[2024.12.07-00.58.50:835][449]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LevelOne" FILE="D:/Game Design/CS310H/GitHub/FA24-KolbB-SchmitzW/HW2/HW2/Content/LevelOne.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.12.07-00.58.50:906][449]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2024.12.07-00.58.50:925][449]LogSavePackage: Moving output files for package: /Game/LevelOne
+[2024.12.07-00.58.50:925][449]LogSavePackage: Moving 'D:/Game Design/CS310H/GitHub/FA24-KolbB-SchmitzW/HW2/HW2/Saved/LevelOneD71591B3436FAA7E46DB95A0EAA11888.tmp' to 'D:/Game Design/CS310H/GitHub/FA24-KolbB-SchmitzW/HW2/HW2/Content/LevelOne.umap'
+[2024.12.07-00.58.50:945][449]AssetCheck: New page: Asset Save: LevelOne
+[2024.12.07-00.58.50:945][449]LogContentValidation: Display: Validating World /Game/LevelOne.LevelOne
